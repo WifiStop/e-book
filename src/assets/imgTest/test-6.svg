@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Artifact">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Times New Roman"><tspan y="-745.56" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Times New Roman"><tspan y="-38.1" x="81"> </tspan></text>
+<clipPath id="cp35">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 524.32 35.28 L 531.04 35.28 L 531.04 49.079999 L 524.32 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp35)">
+<clipPath id="cp36">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 524.32 35.28 L 531.04 35.28 L 531.04 49.079999 L 524.32 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp36)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Arial,Bold" font-weight="bold"><tspan y="-37.92" x="524.32">6</tspan></text>
+</g>
+<clipPath id="cp37">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 524.32 35.28 L 531.04 35.28 L 531.04 49.079999 L 524.32 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp37)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Arial,Bold" font-weight="bold"><tspan y="-37.92" x="530.98"> </tspan></text>
+</g>
+</g>
+<g transform="matrix(.78967747,0,0,.8846938,0,-.099998477)">
+<symbol id="im38" viewBox="0 0 775 49">
+<image width="775" height="49" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAwcAAAAxCAIAAAAA8UI1AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAABEjUlEQVR4nO2dCXwcxZXwq7vnPqTR6LZk2ZYl2/JtbHMlDjcEwhGu
+kJAQcgAJm/NLliybZJckX/IluyR75IKQTQhhk4VAIAeENUcubowBG1/4tizLum/N
+fXyv+2lKNVXdNS15JMuOHv4NrZ7q6qrqnnr/evXqlUJ+9Co5TqKIB4p5ShDV+M76
++zHJ2rhvJpuXKv+v8RzEexXM3E5F7IhVkQrKsd02l4m9XNRcOqvktNhcg+elYb7J
+Cgc2RbE6FkqmFqqbnaJOupyzMqWyrtL3andk0pc/ckHjVU/tx+OVYe/fLav8+LOt
+4lezYlMuqCv55ml1ayt8cPyFl9vu3NLJfnv3hoaPtVRyl/xoZze2uem3T7UNXffM
+gf54SpIDinLPZvuFvLC+ZFW594L6EvtXibLnuuVNpW6rHGbfn6mQY/y9S0Q5XlTE
+IVFBHiL5Ck9l/sgI2ok9oVicZ/WftSq0FCt4sqOJJaqXv4ttPCpYDNMM5Yk54Spi
+n8AK4tGxAIfI1sSiRnKwtno3+GTZvMR/s2B02bzSJSFPZzT18929eAY6qTUVvng6
+G3Jp9+/po9pLlA01AUgZTWd29cee7RixeUe46ty64Fc3H7VKcMfaWsm3cvn40soL
+64L0z65Y6ofbu7f2ReH4ztPqF5a44GDfUOK2l9sml//foGRvWfvtLZ3QYmVuR9+N
+q0yJAdLQ8wAoD5y/4Ke7emkjs9/C2/UPq2rgBWh6YDv7arFprM5Yyc0tFfdsmLe5
+J/KnI8N/v6p60lR026rqUyv91zSWmeZwQ3PY79Tu3tE9ucxnskADwu/drSkdkeTv
+Dw1KUkITQV9RsGfgBDoZeHloD8PJsfze5XIcqEhhPkm+ApOYHxCDFOMbUecxalU/
+EjlJFExiH1DsiJXelTOcKHasLEWUCeEOWxcll5Z7IgUfh2kFRTYiFthhahyy4lGF
+P2mWo/VzsXoWHB5JLjwpBQdqH1xUTvss6MKwZ4SODI6t+jIQehV7uR2ZaPpZOY4C
+dIImIptURIyXatOVLfSMyDdPXtK8fzhObXimaexT0bFfRYy3fe97lwGrWdXx/nMW
+3PCnA8QwQH5lbe0WA7VXhb1XPbUfQPDMGj/8uX8oDrggXnvl/NBFc0uORpKm6h+w
+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
+AAAASUVORK5CYII="/>
+</symbol>
+<use xlink:href="#im38" x="0" y="0" width="775" height="49"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="81 86.57112 89.35668 94.9278 97.683307">1.1.2</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="117.02 126.47888 132.6011 138.14217 141.47882 143.89365 149.46477 152.17017 159.4046 164.82543 172.85144 175.54682 178.24219 184.36441">What's New in </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="187.16 193.84334 201.07778 207.2 212.77112 219.45446 226.0977">PDF2SVG</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="233.84">?</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-707.82" x="239.96"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-693.3" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma39">
+<g transform="matrix(.6666667,0,0,.6625,99,102.20003)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<symbol id="im40" viewBox="0 0 12 12">
+<image width="12" height="12" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAAAAABzHgM7AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAFklEQVR4nGNkQAKMeDn/YSyqcIiwFADnfQYNNgQEKAAAAABJRU5E
+rkJggg=="/>
+</symbol>
+<g mask="url(#ma39)">
+<g transform="matrix(.6666667,0,0,.6625,99,102.20003)">
+<symbol id="im41" viewBox="0 0 12 12">
+<image width="12" height="12" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAH0lEQVR4nGNkYGD4z0ACYKSzhplnsKtKNxnVMMgiDgCq8BgBAEw2
+KgAAAABJRU5ErkJggg=="/>
+</symbol>
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-681.84" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-681.84" x="117.02 123.70334 129.27446 134.28446 139.85558 145.44673 148.23229 153.72325 159.29438 162.07993 164.8254 170.39652 175.92755 178.7131 180.93755 186.50867 189.24413 194.81525 199.8553 202.64086 205.37631 212.05965 219.29409 225.4163 232.62068 238.1918 240.97736 243.72283 249.29395 252.0795 257.6506 260.4061 263.74278 269.33393 271.55836 277.12947 282.65046 287.66047 293.23158 295.967 298.75257 305.3858 310.9569 316.528">Based on the latest PDFNet 6.0 release. See </tspan></text>
+</g>
+<g id="Layer-1" data-name="Span">
+<text fill="#0000ff" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-681.84" x="319.34 324.9111 327.69667 330.44215 336.01325 338.7988 341.54429 344.32984 351.61439 358.84883 366.12333 368.90888 374.3998 379.97093 382.75648 385.50196 388.83863 394.42979 400.0009 402.78645 407.74635 413.31745 421.6641 424.44966 430.02076 435.59187 438.34736 443.91847 449.48957 452.27513 455.0306 462.26506 467.83616 473.40727 476.15275 481.16276 486.76393 492.2849 499.51936 502.3049 507.876 510.66157 519.00827">http://www.pdftron.com/pdfnet/whatsnew.html</tspan></text>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 319.34 680.04 L 521.2 680.04 L 521.2 680.75997 L 319.34 680.75997 Z " fill="#0000ff" fill-rule="evenodd"/>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-681.84" x="521.2"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma42">
+<g transform="matrix(.6666667,0,0,.6625,99,113.64998)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma42)">
+<g transform="matrix(.6666667,0,0,.6625,99,113.64998)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-670.38" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-670.38" x="117.02 123.14222 125.36666 130.93778 133.72333 136.45879 142.0299 147.60103 153.17215 156.54889 159.33444 164.82541 170.39653 173.18209 175.40653 180.97765 186.54877 191.55876 194.34432 197.12987 202.70099 205.44646 211.01758 216.5887 218.76305 224.33417 227.11972 230.45638 235.98741 241.55854 247.12966 252.13965 257.71076 260.4963 265.50633 271.07743 279.36396 284.93507 287.1595 292.68049 297.6905 300.41593 307.09928 314.3337 320.45594 323.2415 325.97694 328.20137 330.42579 335.9969 341.0069 343.79246 346.01689 351.58799 354.37355 359.94465 362.70014 367.71015 369.93458 378.28123 383.85234 386.07676 391.64787 394.98454 397.77009 403.3412 408.84217 414.41328 417.19883 419.9443 425.5154 430.55549 433.34104 438.91215 442.2488 445.03437 451.67765 458.361 466.15657">Flattener options to help reduce complex PDF files into simpler and faster SVG.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-670.38" x="468.88"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma43">
+<g transform="matrix(.6666667,0,0,.6666667,99,125.150028)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma43)">
+<g transform="matrix(.6666667,0,0,.6666667,99,125.150028)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-658.86" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-658.86" x="117.02 124.81556 130.38668 135.9578 141.54895 147.67118 152.65111 158.17214 163.74326 166.52881 169.27428 174.8454 180.41652 183.20207 185.95757 190.96756 196.56874 202.13986 207.6709 213.24202 216.59871 219.38426 222.11972">OpenType font support a</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-658.86" x="227.72 233.24103 238.81215 244.38327 249.95439 252.73995 255.5255 261.09663 266.66773 272.23884 275.02439 280.5955 282.81993 285.04435 287.7798 290.47517 296.04627 301.61738 304.40293 309.41294 312.1985 317.17845 322.74955 328.32066 331.1062 336.6773 342.1983 349.40269 352.18824 357.75935 363.33045 366.08595 371.09596 376.6971 382.2181 385.55479 391.14595 396.71705 399.5026 405.00358 410.52458 413.31013 420.54457 426.11567 431.68678 437.25788 440.04344 445.56443 451.13554 456.70664 462.24769 467.2577">dded, and all fonts can now be shared between pages.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-658.86" x="470.02"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma44">
+<g transform="matrix(.6666667,0,0,.6625,99,136.70003)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma44)">
+<g transform="matrix(.6666667,0,0,.6625,99,136.70003)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="117.02 124.82">On</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="130.4">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="133.76 140.36318 143.69983 149.29099 157.63765 159.79195 164.80194">Premise</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="170.36">s</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="175.4"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="178.16 184.84334 192.07778 198.2 204.32222 207.61879 213.18991 218.76103 221.54659 230.95537 236.4764 242.04752 244.83307 251.47632 257.04743 260.40415 265.41416 267.60853 272.61854 278.18965 283.19966 285.9852 289.32188 295.92506 305.38395 312.0673 315.40397 318.1895 323.76063 329.33174">PDFTron Web Services (PWS) pay</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="334.3">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="337.66 343.18003">as</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="348.22">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="351.58 356.49983 362.07093">you</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="367.66">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="371.02 376.54">go</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="382.12"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="384.88 390.4511 396.02223 401.56327 407.13438 409.3588 414.8798 420.4509">enabled.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-647.32" x="423.22"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-623.8" x="81 86.57112 89.35668 94.9278 97.683307">1.1.3</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-623.8" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-623.8" x="117.02 126.47888 132.67125 138.07204 140.85759 147.49083 154.17417 161.96973">Why SVG?</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-623.8" x="168.14"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-609.28" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-597.76" x="117.02 123.14222 129.26444 134.83556 138.73334 144.30446 147.09001 152.66114 156.4988 162.06992 164.85547 173.72316 179.29428 185.47663 190.87741 193.66297 199.78519 205.35631 211.47853 217.04965 220.3863 223.17186 226.50852 232.07964 234.86519 240.98741 244.32407 247.10962 252.68074 258.80296 264.92518 270.37605 275.94715 279.8449 283.20164 285.98719 292.1094 298.23164 301.01719 306.47807 312.60029 318.7225 322.62028 325.40583 331.52806 337.6202 343.1913 349.31355 358.2213 363.79243 369.91465 373.2513 378.82243 381.60798 384.90458 391.0268 393.81236 400.4456 407.12895 414.9245">There are many benefits of converting your documents to SVG:</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-597.76" x="418.24"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-586.3" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma45">
+<g transform="matrix(.6666667,0,0,.6666667,99,209.15003)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma45)">
+<g transform="matrix(.6666667,0,0,.6666667,99,209.15003)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-574.84" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-574.84" x="117.02 123.70334 130.33658 138.13214 143.28241 145.50685 150.51685 155.69718 161.2683 166.36847 175.78726 181.35839 188.61286 193.703 197.03966 206.49854 212.06966 217.64078 222.79105 229.47438 232.20984 237.78096 243.35208 248.9232 254.49433 257.831 263.352 268.362 273.54234 280.7467 286.3178 291.84886 296.85887 302.46003 305.7967 308.58226 310.80668 316.31767 324.6643 328.00099 333.11119 338.1212 340.90675 346.47785 352.00889 357.58 363.1511 366.51783 372.03883 377.1891 379.97465 385.54576 388.88243 397.16896 402.74006 405.5256 410.65583 416.22694 421.79804 427.36915 432.54948 434.71379 439.7238 444.9041 450.47523 456.00627 461.01628 466.02629 471.54728 477.11839 482.27867 487.84977 492.85978 497.99 503.5611 508.72138 510.9458 516.4568 519.79348 525.36459 530.8555">SVG is a W3C (Web Standards Consortium) standard format and is backed by a large </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="117.02 122.59112 128.16223 136.5089 142.08002 147.62108 150.95774 153.74329 159.3144 162.09996 164.84543 169.85543 175.42655 183.77321 189.34433 194.91545 200.48657 202.71102">number of companie</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="208.22 213.23 216.01555 221.58667 227.1177 232.68883 235.47438 241.0455 246.61663">s and non</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="252.2">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="255.5 261.0711 264.40779 269.97889 272.72438 274.9488 277.73435">profit </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="280.46 286.0311 289.38783 294.9088 300.47993 306.05104 308.27546 313.28547 318.85658 321.61207 323.8365 329.4076 334.9286 339.9386">organizations.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-563.38" x="342.76"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma46">
+<g transform="matrix(.6666667,0,0,.6625,99,232.14998)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma46)">
+<g transform="matrix(.6666667,0,0,.6625,99,232.14998)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-551.86" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-551.86" x="117.02 123.14222 126.47888 132.05 137.65119 140.43674 147.06998 153.75331 161.54888 164.29434 169.30434 171.49872 177.01975 184.25418 189.84534 193.1419 198.1519 200.93746 206.45848 209.79514 215.38629 218.17185 225.40628 227.5706 233.09163 238.66275 240.88719 245.89719 248.63265 254.20377 259.21379 264.78489 267.0093 269.23374 274.80485 280.37596 282.60038 288.17149 290.95704 296.52815 302.09925 304.85475 313.2014 318.7725 320.99693 326.5179 329.85459 332.64015 338.21125 340.43568 346.00679 348.79234 351.5378 357.10893 360.46565 368.74217 373.75218 376.53773 382.10884 387.67994 393.2711 396.05665 401.54759 407.11869 412.64973 415.9864 421.57756 424.3631 426.58753 432.15864 437.72975 440.47523 445.48524 450.43513 455.44514 458.23069 463.8018 472.09834 477.10835">Free SVG viewers are widely available on major platforms and operating systems.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-551.86" x="479.98"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma47">
+<g transform="matrix(.6666667,0,0,.6666667,99,243.65003)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma47)">
+<g transform="matrix(.6666667,0,0,.6666667,99,243.65003)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="117.02 123.70334 127.04 132.61112">Brow</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="139.82 144.83 150.40113 153.73778 156.52333 161.53333 167.06436 172.63549 178.16652 183.73764 187.09433 189.87989 192.61534 195.4009 200.97202 204.30867 207.09423 213.73748 220.4208 228.21637">ser support for SVG </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="230.96 233.18445 238.16439 240.94994 246.52106 252.09218 259.32664 262.11219 267.08213 272.65324 280.99989 289.34654 294.8575">is now common</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="300.44">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-540.34" x="303.2"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma48">
+<g transform="matrix(.6666667,0,0,.66665837,99,255.10009)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma48)">
+<g transform="matrix(.6666667,0,0,.66665837,99,255.10009)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-528.88" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-528.88" x="117.02 123.70334 129.27446 134.28446 139.85558 145.4267 150.43669 156.00782 158.83345 165.51679 172.0899 179.88547 182.70108 184.92552 189.93552 192.77117 198.34229 203.87332 208.88332 214.4845 220.05562 222.87123 228.39226 233.96338 236.77899 243.46233 251.80899 257.3801 260.11555 262.92115 265.7067 271.2778 276.8489 279.63447 285.23564 290.80674 295.8468 301.4179 309.70445 315.27555 320.84666 323.6322 326.41777 331.47789 336.99888 342.56999 345.35554 350.92665 356.49775 359.31336 364.88447 370.4155 375.4255 377.64994 379.87437 384.88438 387.66993 393.26109 398.83219 401.0566 403.84217 409.41328 414.98439 417.78999 420.0144 425.5855 428.40113 433.97224 436.78785 439.5734 445.1445 450.1044 452.88996 455.6755 461.2466 466.81773 469.04216 471.8277 477.3988 480.73548 483.52104 486.33665 493.02 499.65324 507.4488 510.2644 516.94778 525.29446 530.86557">Because SVG is based on XML, the document can be easily edited in a text editor. SVG XML </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-517.36" x="117.02 122.03 127.63118 133.2023 135.98786 141.48883 147.05995 149.8455 155.69718 160.70717 166.30835 171.87947 177.70108 183.2722 188.84333 194.73508 196.95952 199.18396 204.75508 209.76508 215.3362 220.90732 226.76902 229.55457 235.04553 240.91725 246.48838 252.0595 257.0695">content can be linked to back</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-517.36" x="262.16">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-517.36" x="265.52 271.041 276.6121 282.1832 288.07496 293.59596 299.16706 304.20713 306.43156 311.94255 317.51365 322.52366 327.53367 333.4154 338.9865 342.32319 347.8943 352.8542 358.4253 363.4353 368.4453 373.97636 378.98637 384.88813 389.89814 395.46925 400.47926 406.05036 411.882 417.4531 422.49317 428.36488 433.93598 439.50709 442.29264 447.80363 453.37474 458.90577 463.91578 469.48689 474.4969 477.28245">end business processes such as databases, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-517.36" x="483.22 488.7911 494.3622 499.93333 502.15776 504.3421 509.3521 514.9533 517.7389 519.9633 525.4543 531.0254">application </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-505.84" x="117.02 122.03 127.63118 130.96784 135.97783 141.48883 144.7854 149.7954 152.58095 155.3665 160.93762 166.50875 172.07987 174.78527 180.35639 183.14194 188.71306 194.28418 197.62084 200.40639 203.74304 205.9274 210.9374 216.53858 219.23395 224.24394">servers, and other rich so</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-505.84" x="229.88 235.40103 238.73769 243.78777 249.30879 254.31879 257.10435 262.67546 265.461 268.20649 271.54316 277.11427 282.68537">urces of real</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-505.84" x="284.9">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-505.84" x="288.26 291.04557 293.1798 301.52647 307.09757 309.88313 312.10755 317.67866 320.42414 325.99525 329.35197 337.6986 343.2697 346.05528 348.2797 353.77064 359.34175">time information.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-505.84" x="362.14"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma49">
+<g transform="matrix(.6666667,0,0,.6666667,99,289.6)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma49)">
+<g transform="matrix(.6666667,0,0,.6666667,99,289.6)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-494.38" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-494.38" x="117.02 123.14222 128.71334 134.28446 137.62111 143.19223 145.9377 151.50882 154.86551 160.43663 163.22219 168.7933 171.5488 177.06983 180.40648 185.99764 193.23207 195.41643 200.98755 206.55867 209.34423 214.91535 220.43637 228.78304 234.29404 239.86516 243.22185 246.0074 251.57852 254.32399 257.10957 262.68067 265.42616 268.2117 273.7828 277.11949 282.69059 288.22163 293.7426 295.96705 301.53816 304.3237 309.8948 315.4659 321.03703 323.82258 329.39369 334.90467 342.1391 347.7102 351.04689 353.83244 359.40354 361.62797 364.3634 371.04676 377.68 385.47557 388.2611 393.8322 399.40333 402.18888 407.75999 413.26097 416.59764 418.82206 424.39317 429.99433 432.77989 438.35099 443.85197 449.42308 452.20863 457.77973 463.35084 465.57527 468.3608 470.49507 476.06617 481.63728 484.42283 489.43284 495.024 497.1883 502.7594 505.54496 507.76939 513.3405 518.8515 523.8615">There are a growing number of affordable and powerful SVG authoring and editing solutions.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-494.38" x="526.72"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma50">
+<g transform="matrix(.6666667,0,0,.6625,99,301.15)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma50)">
+<g transform="matrix(.6666667,0,0,.6625,99,301.15)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-482.86" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-482.86" x="117.02 123.70334 129.27446 134.84558 140.4167 145.93773 150.94773 156.5489 162.06993 165.35649 170.36649 175.85746 181.42858 184.78527 189.79526 195.36638 198.57277 203.58277 209.18395 214.70497 220.2761 225.84722 228.07166 230.2961 232.52054 235.22594 237.45038 243.0215 248.05153 250.83708 254.10359 260.78694 263.01136 265.20573 268.49229 271.27784 276.84895 281.80885 284.5944 287.8609 290.08534 295.5963 298.88288 305.56623 312.19947 319.99504 323.2916 325.51603 330.52604 333.78254 338.79255 341.5781 347.0991 350.43577 356.00688 361.57798 364.84449 367.0689 372.64 375.87648 380.88648 383.67204 389.24314 394.81425 400.38536 405.95646 409.29313 414.81413 418.10069 424.78404 433.13069 438.70179 441.9683 446.9783 451.9883 457.55943 460.34498 465.91609 470.88603 474.11247 479.68357 485.25468 490.82579 494.08229 501.3167 506.90788 509.07218 514.08218 519.68338 525.20437 530.77548">Enhanced search capabilities. All text in SVG is stored in standard XML syntax and Unicode </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-471.34" x="117.02 122.59112 128.16223 133.17223">enco</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-471.34" x="138.74 144.31113 146.53557 152.0566 157.62772 161.52548 164.31104 169.88216 175.45328 178.14865 182.0364 190.38307 195.9542 200.96419 206.53531 211.49521 215.38297 220.39296 225.96408 231.46506 234.76163 239.77162 245.3728 247.59725 253.10825 258.67936 262.57713 268.0981 273.66923 279.24034 282.577 288.1481 290.8936 293.118 298.68913 304.26023 309.27024 313.14799 320.38243 322.60685 325.3924 330.9635 333.1278 338.6989 342.59669 348.11769 351.9453 357.51643 363.08753 368.09754 373.66865 382.0153 387.5864 393.1575 395.94306 399.75065 405.32176 408.65843 412.456 418.0271 423.06718 426.36378 431.93489 436.9449 441.9549 445.85267 448.01698 453.58808 456.92475 462.49586 468.06697 471.88459 476.8946 482.49577 484.72019 486.9446 492.4556 497.4656 500.25117 502.4756 508.0467 513.5777 518.5877 522.44546 528.01657 530.8322">ding that makes searching operations within a document or across large collections of </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-459.88" x="117.02 122.59112 128.16223 133.17223 138.74335 147.09001 152.66114 158.23226 160.93766 165.94765 168.7332 174.30432 177.08988 182.661 185.99765 191.56877 197.1399 202.14989 207.72101">documents a breeze.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-459.88" x="210.44"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-436.3" x="81 86.57112 89.35668 94.9278 97.683307">1.1.4</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-436.3" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-436.3" x="117.02 124.25444 130.37667 139.28444 148.16216 154.28438 160.4066 163.19216 170.36647 175.8875 181.45862 184.24417 191.4786 197.04973 202.59079 208.16191 210.94747 217.59072 223.16184 228.73296 234.8151 240.38622 244.284 247.06955 253.19178">Common Use Case Scenarios</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-436.3" x="258.68"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-421.84" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma51">
+<g transform="matrix(.6666667,0,0,.6666667,99,373.6)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma51)">
+<g transform="matrix(.6666667,0,0,.6666667,99,373.6)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="117.02 123.70334 129.27446 132.61112 137.62111 143.19223">Server</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="146.48">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="149.84 155.41112 160.94216 165.95215 171.52327 177.02425 179.8098 182.54526 188.11638">based, on</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="193.7">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="197.06 202.63112 208.20224 216.49881 222.06993 227.64105 233.21218 235.9376 240.9476 246.54878 252.1199 257.1299 262.6309 265.96757 271.01765 273.18196 278.75306 284.32417 287.1097 292.68083 295.3862 298.17176 304.805 312.03944 318.16166 320.9472 326.5183 332.08943 337.09944 342.67054 351.01719 356.52818 362.09928 364.88484 369.89485 372.6804 375.42588 380.99699">demand conversion of PDF documents to </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="383.8 390.46003 397.12007">SVG</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="404.92">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-410.38" x="407.68"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma52">
+<g transform="matrix(.6666667,0,0,.6625,99,385.15)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma52)">
+<g transform="matrix(.6666667,0,0,.6625,99,385.15)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="117.02 123.70334 129.27446 132.01993 137.02993 142.6311 146.39862 151.91965 155.2563 160.82743 165.83742 171.35845 176.36844 181.37844 183.60288 189.174 194.74512 198.47255 204.04367 206.82923 210.58672 217.27005 224.50449 230.62671 234.3341 239.3441 244.94528 247.16973 249.39417 254.90517 259.91517 262.7007 264.92515 270.49626 276.02729 281.0373 283.82286 287.60038 294.28373 301.51817 307.64039">Batch processing of PDF collections. PDF2</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="313.28 319.94004 326.60008">SVG</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="334.42"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="338.2 340.36433 345.37434 349.1719 354.6929 360.264 363.62074 366.40629 368.6307 373.64073 379.21183 381.37614">is particula</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-398.86" x="386.98 390.31669 392.5411 397.55113 401.30863 406.82963 411.83964 417.41075 420.14619 425.7173 427.9417 431.71925 433.94367 439.51478 443.2923 448.8634 453.8734 458.88343 464.41447 472.69099 478.2621 480.4865 482.71095 488.28205 493.85316 497.64073 503.1617 506.49839 512.08956 517.61056 523.18167 528.22177 531.0073">rly useful in assembling product </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-387.34" x="117.02 122.03 127.63118 130.41674 135.98786 138.2123 143.71327 149.2844 154.85552 160.39658 165.40657 168.19213 173.71315 179.28427 184.8554 187.64095 193.21207 196.54872 202.11985 207.12984 212.65087 218.22199 221.55864 227.12976 232.13976">catalogues and brochures.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-387.34" x="234.86"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma53">
+<g transform="matrix(.6666667,0,0,.6666667,99,408.1)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma53)">
+<g transform="matrix(.6666667,0,0,.6666667,99,408.1)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-375.88" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-375.88" x="117.02 123.70334 130.93778 137.06 139.84555 144.85555 150.37657 155.9477 158.73325 164.30437 169.87549 172.66104 175.3965 180.96762 185.97762 188.71308 192.04973 197.64089 202.65088 205.43643 207.66088 213.232 218.80312 221.58867 227.09967 232.6207 238.19182 240.97737 244.31403 249.88515 255.45627 261.02738 264.36405 269.88505 275.45616 280.49623 282.66053 288.23164 293.76268 296.54823 299.28367 304.85478 308.2115 313.7826 319.3537 324.9248 330.52598 333.31153 339.94477 346.6281 354.3435 357.12907 362.70018 368.27128 373.84239 376.62794 383.26118 391.60783 397.17893">PDF content extraction and repurposing through SVG and XML.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Times New Roman"><tspan y="-375.88" x="400"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-352.28" x="81 86.57112 89.35668 94.9278 97.683307">1.1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-352.28" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-352.28" x="117.02 124.81556 130.93778 136.5089 140.40668 145.93772 149.27437 152.05992 158.18215 164.30437 167.05986 173.7432 179.18405 184.75518 188.11186 193.68299 202.59076 208.16188 210.90735 217.59069 223.7129 229.85517 235.97739 242.09961 245.99739 249.33405 254.90517">Operating Systems Supported</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-352.28" x="260.96"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-337.76" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma54">
+<g transform="matrix(.6666667,0,0,.6666667,99,457.6)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma54)">
+<g transform="matrix(.6666667,0,0,.6666667,99,457.6)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-326.36" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-326.36" x="117.02 126.47888 128.70333 134.27445 139.84557 145.41669 152.60103 157.61103">Windows </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-326.36" x="160.4 165.97112 168.75667">8, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-326.36" x="171.5 177.02103 179.80658 182.54204 188.11316 193.68428 199.2554 204.85659 207.64214 210.3776 217.06093 219.28537 224.29537 227.08092 232.65204 235.3975 238.18306 244.8163 251.49964 254.23509 257.02067 262.59178 268.16288 273.73399 279.30509 282.09065 284.83613 290.40724 295.97834 301.54945 307.1506 309.93617 312.6716 319.90605 326.02827 328.8138 331.59938 337.17048 342.74159">7, 2008, Vista, XP, 2003, 2000, NT, 98 </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-326.36" x="345.46"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma55">
+<g transform="matrix(.6666667,0,0,.6625,99,469.15)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma55)">
+<g transform="matrix(.6666667,0,0,.6625,99,469.15)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-314.84" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-314.84" x="117.02 125.36665 130.93778 135.9678 138.75336 146.54892 153.19217 159.8755">Mac OSX </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-314.84" x="162.56"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma56">
+<g transform="matrix(.6666667,0,0,.6666667,99,480.6)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma56)">
+<g transform="matrix(.6666667,0,0,.6666667,99,480.6)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-303.38" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-303.38" x="117.02 122.59112 124.81556 130.38668 135.9578 140.96779">Linux </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-303.38" x="143.72"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-279.8" x="81 86.57112 89.35668 94.9278 97.683307">1.1.6</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-279.8" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-279.8" x="117.02 123.7334 129.1943 134.76543 138.12212 143.69324 152.60102 155.34648 162.58092 168.17208 174.23418 180.3564 183.14196 187.03974 192.61086 201.47855 207.04967 213.17189 216.50855">System Requirements</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-279.8" x="222.08"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-265.34" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma57">
+<g transform="matrix(.6666667,0,0,.6666667,99,530.1)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma57)">
+<g transform="matrix(.6666667,0,0,.6666667,99,530.1)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.88" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.88" x="117.02 123.70334 126.4388 129.22435 131.44879 137.01992 142.59104 147.60103 150.38658 153.14208 158.7132">At least 10</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.88" x="164.3"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.88" x="167.06 175.40666 182.09 184.81543 190.38655 193.1721 195.91757 198.70313 202.03978 207.6109 213.18202 215.96758 221.5387 223.76314 228.77313 233.82321 236.51859 241.52858 247.12976 252.65079 257.6608 263.26197">MB of free disk space.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.88" x="266"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma58">
+<g transform="matrix(.6666667,0,0,.66667506,99,541.59988)">
+<use xlink:href="#im40" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma58)">
+<g transform="matrix(.6666667,0,0,.66667506,99,541.59988)">
+<use xlink:href="#im41" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-242.36" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-242.36" x="117.02 125.36665 130.93778 139.28444 144.85556 148.19222 153.20221 157.39057 160.72722 166.31838 171.8394 177.36043 179.58487 182.92153 188.49265 196.83931 202.41043 207.98155 210.71701 214.96549 217.18993 222.19992 226.41834 231.98946 237.5205 243.09162 248.10161 250.32605 252.55049 257.50038 261.74885 267.31996 272.89106 278.46217 284.06333 289.58433 295.10533 300.67643 306.24754 309.03309 313.27156 318.84266 324.41377 328.68229 331.46784 336.95878 342.52989 346.78837 352.30937 357.88047 360.66603 366.23713 369.5738 375.1449 379.3633 384.93443 387.71998 391.9484 394.73396 400.30506 405.87617 410.0545 415.6256 421.19673 426.20674 431.77784 440.12449 445.6956 451.2667 454.05226 458.22056 463.79167 469.3227 471.54713 477.11824 482.68934 486.9478 491.95783 497.52894 503.10005 508.06999 513.591 516.9277 519.71328 525.23428 530.8655">Memory requirement is heavily dependent on the nature of the document being converted </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-230.84" x="117.02 119.24444 124.81556 127.60112 133.17224 135.91771 141.48883 147.05995 149.8455 152.06995 160.41661 165.98773 171.55886 177.07988 179.86544 182.60089 184.82534 187.04978 192.6209">into an image file.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-230.84" x="195.44"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-219.38" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Arial,Bold" font-weight="bold"><tspan y="-207.74" x="81"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,BoldItalic" font-weight="bold" font-style="italic"><tspan y="-207.74" x="225.02"> </tspan></text>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,141 @@
+.container{
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.container .shadow{
+  position: absolute;
+  box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 35%);
+  z-index: 9;
+  background-color: #fff;
+}
+.container .book-container .point{
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  background: transparent;
+  z-index: 999;
+  span{
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-width: 0;
+    border-style: solid;
+    background: hsla(260, 5%, 60%, 0.4);
+    box-shadow: 2px -2px 0px transparent, 0 1px 1px rgb(0 0 0 / 10%), -1px 1px 1px rgb(0 0 0 / 10%);
+    transition: border-width 0.2s ease-out;
+    
+    border-radius: 0 0 0 15px;
+    
+  }
+}
+.container .book-container .point-left-top{
+    left: 0;
+    top: 0;
+    span{
+      border-color: #fff transparent #fff transparent;
+      transform: rotate(270deg);
+    }
+    &:hover{
+      span{
+        border-width: 40px 0 0 40px;
+      }
+    }
+}
+.container .book-container  .point-left-bottom{
+  left: 0;
+  bottom: 0;
+  span{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transform: rotate(180deg);
+    border-color: #fff transparent #fff transparent;
+  }
+  &:hover{
+    span{
+      border-width: 40px 0 0 40px;
+    }
+  }
+}
+.container .book-container  .point-right-top{
+  right: 0;
+  top: 0;
+  span{
+    top: 0;
+    right: 0;
+    border-color: #fff #fff transparent transparent;
+  }
+  &:hover{
+    span{
+      border-width: 0 40px 40px 0;;
+    }
+  }
+}
+.container .book-container  .point-right-bottom{
+  right: 0;
+  bottom: 0;
+  span{
+    bottom: 0;
+    right: 0;
+    border-color: #fff #fff transparent transparent;
+    transform: rotate(90deg);
+  }
+  &:hover{
+    span{
+      border-width: 0 40px 40px 0;;
+    }
+  }
+}
+.container .book-container {
+    display: flex;
+    position: absolute;
+    // background-color: #fff;
+    perspective: 3000px;
+    z-index: 9;
+    overflow: visible;
+    .back,
+    .forward {
+      position: absolute;
+      width: auto;
+      button {
+        display: block;
+        margin-bottom: 20px;
+      }
+    }
+    .back {
+      left: 0;
+      transform: translate(-100%, 0);
+      top: 50%;
+    }
+    .forward {
+      right: 0;
+      transform: translate(100%, 0);
+      top: 50%;
+    }
+    .book-item {
+      display: block;
+      position: absolute;
+      backface-visibility: hidden;
+      transform-style: preserve-3d;
+      transition: transform 0.3s ease 0s;
+    }
+    .book-left{
+      top: 0px;
+      left: 0px;
+      transform-origin: 100% 50% 0px;
+    }
+    .book-right{
+      top: 0px;
+      left: 50%;
+      transform-origin: 0% 50% 0px;
+    }
+   
+  }
+  .button-test{
+    position: absolute;
+    top: -20px;
+  }
+

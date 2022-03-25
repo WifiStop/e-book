@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- PDFTron PDFNet Generated! Version: 7.0.0.71958 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="http://www.pdftron.com/pdf2svg" id="svgRoot" version="1.1" baseProfile="Full" width="595.3px" height="765.4px" viewBox="0 0 595.3 765.4" xml:space="preserve">
+<defs>
+</defs>
+<style type="text/css">
+<![CDATA[
+.ps02 { stroke:#A78274;fill:none; }
+.ps01 { stroke:none;fill:#A78274;fill-rule:nonzero; }
+.ps00 { stroke:none;fill:none; }
+.ps10 { stroke-width:2.0833;stroke-miterlimit:4; }
+]]>
+</style>
+<clipPath id="clp1" clip-rule="nonzero">
+<rect x="623.6" y="28.35" width="595.3" height="765.4"/>
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 -623.621 793.701)">
+<g id="q1" class="">
+<g id="xfrm2" transform="matrix(0.24 0 0 0.24 0 0)">
+<g id="q3" class="">
+<clipPath id="clp2" clip-rule="nonzero">
+<path d="M2598.4 118.11 L5078.8 118.11 L5078.8 3307.1 L2598.4 3307.1 Z"/>
+</clipPath>
+<g clip-path="url(#clp2)">
+<path d="M2477.6 59.055 L5146.9 59.055 L5146.9 3366.1 L2477.6 3366.1 Z" class="ps01"/>
+<path d="M2477.6 59.055 L5146.9 59.055 L5146.9 3366.1 L2477.6 3366.1 Z" class="ps02 ps10"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

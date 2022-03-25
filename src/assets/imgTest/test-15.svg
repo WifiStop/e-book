@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Artifact">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Times New Roman"><tspan y="-745.56" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Times New Roman"><tspan y="-38.1" x="81"> </tspan></text>
+<clipPath id="cp747">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 517.66 35.28 L 531.04 35.28 L 531.04 49.079999 L 517.66 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp747)">
+<clipPath id="cp748">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 517.66 35.28 L 531.04 35.28 L 531.04 49.079999 L 517.66 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp748)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Arial,Bold" font-weight="bold"><tspan y="-37.92" x="517.66 524.31997">15</tspan></text>
+</g>
+<clipPath id="cp749">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 517.66 35.28 L 531.04 35.28 L 531.04 49.079999 L 517.66 49.079999 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp749)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="12" font-family="Arial,Bold" font-weight="bold"><tspan y="-37.92" x="530.98"> </tspan></text>
+</g>
+</g>
+<g transform="matrix(.78967747,0,0,.8846938,0,-.099998477)">
+<symbol id="im750" viewBox="0 0 775 49">
+<image width="775" height="49" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAwcAAAAxCAIAAAAA8UI1AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAABEjUlEQVR4nO2dCXwcxZXwq7vnPqTR6LZk2ZYl2/JtbHMlDjcEwhGu
+kJAQcgAJm/NLliybZJckX/IluyR75IKQTQhhk4VAIAeENUcubowBG1/4tizLum/N
+fXyv+2lKNVXdNS15JMuOHv4NrZ7q6qrqnnr/evXqlUJ+9Co5TqKIB4p5ShDV+M76
++zHJ2rhvJpuXKv+v8RzEexXM3E5F7IhVkQrKsd02l4m9XNRcOqvktNhcg+elYb7J
+Cgc2RbE6FkqmFqqbnaJOupyzMqWyrtL3andk0pc/ckHjVU/tx+OVYe/fLav8+LOt
+4lezYlMuqCv55ml1ayt8cPyFl9vu3NLJfnv3hoaPtVRyl/xoZze2uem3T7UNXffM
+gf54SpIDinLPZvuFvLC+ZFW594L6EvtXibLnuuVNpW6rHGbfn6mQY/y9S0Q5XlTE
+IVFBHiL5Ck9l/sgI2ok9oVicZ/WftSq0FCt4sqOJJaqXv4ttPCpYDNMM5Yk54Spi
+n8AK4tGxAIfI1sSiRnKwtno3+GTZvMR/s2B02bzSJSFPZzT18929eAY6qTUVvng6
+G3Jp9+/po9pLlA01AUgZTWd29cee7RixeUe46ty64Fc3H7VKcMfaWsm3cvn40soL
+64L0z65Y6ofbu7f2ReH4ztPqF5a44GDfUOK2l9sml//foGRvWfvtLZ3QYmVuR9+N
+q0yJAdLQ8wAoD5y/4Ke7emkjs9/C2/UPq2rgBWh6YDv7arFprM5Yyc0tFfdsmLe5
+J/KnI8N/v6p60lR026rqUyv91zSWmeZwQ3PY79Tu3tE9ucxnskADwu/drSkdkeTv
+Dw1KUkITQV9RsGfgBDoZeHloD8PJsfze5XIcqEhhPkm+ApOYHxCDFOMbUecxalU/
+EjlJFExiH1DsiJXelTOcKHasLEWUCeEOWxcll5Z7IgUfh2kFRTYiFthhahyy4lGF
+P2mWo/VzsXoWHB5JLjwpBQdqH1xUTvss6MKwZ4SODI6t+jIQehV7uR2ZaPpZOY4C
+dIImIptURIyXatOVLfSMyDdPXtK8fzhObXimaexT0bFfRYy3fe97lwGrWdXx/nMW
+3PCnA8QwQH5lbe0WA7VXhb1XPbUfQPDMGj/8uX8oDrggXnvl/NBFc0uORpKm6h+w
+ALPCPEEgGVyystwLx48eGNiaO0+MpjtGe5goAIIP7+9nD0wFqgmfTx0Zogf2b3Fc
+fvLTSkUsD1EdxqkuqrRYAGK+xcSMKs19madfLQpgpa05O8GkjSKqYl5siYxbHfLm
+kgrABGHqy5Z2cjNoXJsTM8IwQz2KsHxB8aHQEuL/JKiUtYFHVuWxepFyJzFx4Yci
+Pogsc3+utIStnfQxWZ05OcS0zypIRbQPlXd58C0ewGD09Z4IQhibAK/FASV7ZlZm
+grAzaLc8e+jHO3tubqlYVOJh7W1yphG/hRy+dWpd+X1bTNPfvaEBgGnPdcubH9w2
+0dJOmoqANkDNA/yZ5gAkdOWCEGUaat7AAyCYRw8OkEJmD6tv8TyXp1XiglQE5Wf/
+vPDxPfbxRU5F7M9c8pNvDLrOqy+Jp8c6S0x226pqODOQSMPxjv4odAIbagILStzw
+54Kgy6atCHKGz/3DCfYk5GNlqJ4+KqJIxKoxZeygAANxmMIN9zl6AHWVtcYDUVVL
+zEsiLpgKW2yrMhcqTB5GcCUk9mxgLAEQM7IxKTmfQx50FqyCld2F5BcV62WFSvAf
+i6dyry8i1Iu+RYRpAZsvklDmrClk07LRZ5FhDEU2pwVPSjAy7eNAdT3TNsT1QaZX
+SbpI6LPgE7stgJ5rGkOgViH9gaE4noQEIbfG2u1nLUkzVkC33b66Jux24JwaPT9R
+W5F4Uk5R9mVy18Kr/oWVNQhhpjn87qKFl80L0fMUXDhDzp2n1UsmZ+0zE2DWDc1h
+NB1xlxSkIjTkjCV+V7N9KoKntrTMa8c2TKQ/UmhM+I3jMf11s7VjE8izogL5LCnz
+AFdBVjhzB4T09togDLQk0/fTREUcEnE8pCjjSIEqmdVeVPWy+k8UVqEWnKWiejp3
+wOSTHde7ktvlW2jyyswWmMvEdDpGLC1XPPZaqyk1Uw4gDOIUrAXJpxy5CYpNqeVn
+ks5/CvS5mMIrbX8Rj4g1cIj2Re4tIgIDyd8iOy+PnQLTlHmZMwh1krGR2DFBz4V2
+HclVtHeTDDG5nDEld1L+56wcd0FnIHh2m3siD+7r4xyuiZlf0UP7++kEmU0qYr+d
+ZiqCq9Y/uhPfdjGHaq/jx++Yx1ERyU2f0WSARE+2DUkQZEKWpKJ420BdbFIRehOy
+sCKKTSqiU/Bsyk8vr/ruti5JAsl9oSle64mwl0AOC4Luxw4NSMZsZHqoyBSJWE2G
+MGRKFQpzRpMO9NOC6s0K6pzVtZwxQzQv2bT3TKK0aTMkkihmU0gSimHLrmZxVV5K
+ScmtsEmlRc0vM1aEezQiJ6WzxIo2pIXPgyFN4cFUrJ2Wz0ncXcRXiCsw/ZYSkmhA
+srowmz0JwYjtmMrcDhinvtA5glZuiRu1HVsR9F8D8TTNBEGKsxV5NJXtuGepaOYI
+KMu7N8xbW+EDlv2XLR1WlMwxDV2DRr/lOEN0UZLbinBpGHvGCn0mQUV3b2iATwnD
+gVZujyTv2TCPsxWtDHupoQiRqDOaZE1HnMxYKqJIJP+9Q7IylwNyYw3AohTdVoQM
+dGA4/lzHKDUUnVevm8TkI7cppyIrJModjPOQyiQgghpj9ZzK5G+qhuXCKj8rFrFp
+oBJJgi2nvKjcHa3QgQgAJ5SBt4hwZbYCI83sQlpm8Sr7vEULDKWF44wJBpkzEyRL
+My1ArGfQWOMi+/5owrFYO7HkWEgifYtoObO5epF8AxJXZnaibYz5TiIwQm+eBUHX
+geEEkgrrAUCkLj42+ybWr+iZtqE6v+vcuiCoGTgDN4qkMpydqYhUBKP8zqjdlTKz
+YirwPqBxCJd6kZx3EZtGziLit5DnLUsqWbch0a9ocqWdBBVxSIeydzBOi2eaAAWZ
+A5CoxueEPz/QHKZfYTHgx/XNU+dc3xQOOrX20cQ9u3ooHABknDMneEFdydpKX9jw
+qIMEv28dhLqLM2iTs6XZoSK40e2ra+YGXFDCWDrz2KHBe3b2sJdACZ98VzP988Y/
+H4RPAB2o17WNZVBy+P1e+/S4zYz6FcFPG/6Eb3GhK/Yq1LmQprf5e0d0Y6+Ftj2v
+LuhzqFaXTy0VFUQibez8+FfETJmpAm2IQvVZxiqFkBIlLcCHqdVEAgGcuhWNXlz+
+LO6YKmObhMTdxbQNrUouL7OpuUizqBebmG1MPOagh9aaMyZxtEETm9rwuALTirNI
+ZFpBq9qJhaS1GDvIFclOgVlIoqavk5KNZpQUkYpmcoCZi+eWPHF4Aqt4jrugiiWG
+t8qE1ouZ2n5+c3BA7q896ULKfW5e7YnIl5RzOXx8aeXCoLsrlvzX0+qx+qywuYGS
+Xmf4pK+u8EJiyIROJv56/8D8EhcwJQuU0AjwCe3wcvfoYFwfhFzdGPpYS6UYFIow
+3kI0cxuNUZiKgOf+flX1j3Z2P31kGMpQ6tbOrwtCGdhyTrReVgJUDZ9iMtPp+/54
+WuL3bVOmkIrkSITzHXKV5rChz6hYTX9YCTVjEGsDDGdXkE+o0SqQfItF7nbjhSTW
+rEAEXGAvJ2aqVDStqYp5+cVasFdpxuNgy8+Kpub9iahqJRR60hkTsxBX91SWpw1i
+5nYt1oJFQFplq3fG1IaEIpIcyZ/lJCweMdYvTG/lPsXNsqWNAw6MyCwbHbOg1Uoc
+Sk5aZniAGWqDOVGkKFSEK9oWBF0F4xVNupBW+UCDg1InhQwtXA64IB/tJTZLiIkB
+FL51at17nz5AoWRdpa8vlqKuMJBM5JW7NzSsq/Sve2SnPPOiUNE1jWU/2tBw0R/2
+cD83NAou/J83Oa8dm/XipDHourqx7PbVNXD8sWdbKevgGjT4vVMAgp//TUvKb1lS
+GfZot79ypCBmFZSpoiI5EjnVMRWF+ozqY2oWYi0Bolajf4oOOmlBlZqCFKv8rEDK
+jjOTaD4ZK60ZMqQz47fmKEFUusTapiUpA9eABQ0/edygYiaK6Qwam0n+sVBNoWos
+JLEtkJcmnzaY3CwfKH1nHEx9JYQHFWRhjvUrMi0hJwULLM7M5s6PIxRNdhK7YJ/o
+MkMCzBDD3hB06i+sz6FGUhmAoRsXlb+jNrBrIAYnt/VF0WgEantJyHP/7r71Vb65
+ftcThwfhPFxLjKlAvBCO4dr5QRf8WeVx/rF9CNJcPLcENBzkBme6Ykm49tMvHC5e
+Q44JnUFjFS0XmZqdeBK/BemLpzZ3R9jY1jRbFM4naUIF40QMB4DBHq2YI3XzWtoN
+chWZBBXBjT7+7KGJ8j08x4fOb5Sbu4pFRXuuW/6vWztM4YPztWJvbb9ekP6Wlgp0
+0ofH+vD+ASsrHaREOxk0+z27uv9rV6/9EJESmUIqMkUij6Zo+sSZqipZOOPIjfJN
+6YdqayNJltXW8FU0nTdXRv+iKg3SuEWlzV6SVZBA0sKsGyKC6XnuJAUgjifEeSXQ
+i4CD+VSkF8CKFfBablonZkCHh6kXB0Aa25hGgRTDUwgacPyS/HLmWp43hjkEtqOV
+UhQimouSmfGSG1PD435CHP8hTNCK01pD/lz12UYg+axGXxhITDFIQnjsC0bbz+tQ
+a/3ORSWeoGu8Nj2x1FsDsT2Dcc6UyBWYw6Nyt6PG50jlXg/WRwpSvtYToag0azSa
+sTJzAsyQfLMQMM19uQguoq0ITnZFU/flJhQg8aHhxJ+PDsNxS5n71MrAfflzDTQT
+PMAynHBWqJkv580JbnzXIsePbbEIJH760kXh+7bYUe2NQdeC4Jgj+YHh+MISzxOX
+NEtuVCwqgvvue9+Ka5/ej5N3nKyu8F63MMzhI966YL2oyaep1A0w9Ov9A1ZYhqE6
+AIbQnZ/zZzp2mRIqUphQjRwSvXnN0jl+17HfojuqO13uHIhtbBt6oWM0lkMVOuiH
+2y0udX/n9PpKr/MY7/KXoyOv90Y2dUVGUybvAWGtEYzGpYSxIuxdFvZc1lCKfx5L
+edpHEzf99dCbfdGX372kKM1YRMG2AtnYNvxS50h7JJnRMWIMcSgkEcaYhFThd6in
+VPrgl7OszAPnJ1ovaBP4PBpN/e/hwec7RvrjaY6wST7wIepVeBzXLCg7o1of91s9
+EagRvGD/8WYXQBKeYU1fODnI4hH8Sv9+VbVVIZc9tCOZyZqCEZk1Gs0YgcHuHa+2
+U1fr4xhghhgGgHfUBA6PJqo8zsdbB5FyrKiIPXlb/nuIViXIDV77oFMdTmbgk6Ui
+9tOyaWZl4jJRKrKTGJ7jN9fXYSRDTiTXInLZp6LzH9v9TPuw+BXnQ20q3F1sAlnv
+jav6Ymk7Jh9ICZ/feqPj1/v75WvsJyfFpyJu7oyd0fA51K4Priru7YihvQBcfrC9
+mzUzwB2bS90/OWt+Ee8COvJ727uBka38kKhxBe7uVJUPLSoHvXssGCTKJU/s2dkf
+e/6KxTONiljpM95peGthwIpshCSRzfEQQlKNDwYHFS0hT7GaCJ5Rdyz1k129b+YU
+GD4RfAkVwzapqcrnVlQ3lbhs3hTyfK5j5K4dPRTpKAalcmxEDGsWDNAlVLTi4R2Q
+ZhaMZrJUex1fXTeHtf8f3wAz1D5U6XF8aHE5IsvHl1aizxOc7M7xOgc0rK2IpqRp
+zq4Nrq/yzVLRlAp0MrU+Z43P+b6msCmsoDv2vuE49WBjqYjOq3Lvxs0tFd9YN+dL
+r7azgVLRyvLNU+vlVGSfz1I3r73ocXMqMqWrDTUBl6qYpic5KqKBnawEUOxHOwGJ
+egrOsmFKiTGJEzGKh1ymloo4d6IpoiIU0F5/9/zhHmY9bXPIbTptfIx3+X3rIAwc
+Sf5UHcmfVLpobslV80PF5SGUy/53747+6LOXz2gqQkFXgPv39KYQhgw2IjkD0lQg
+IwqyEfQm8UyWzoppxiwaoOqX19QsLfNONE9oc4C8nliKGr0SmTw2Avnw4vJPLa8y
+vRyoaNWvd6agBYxpNXGedHZh2kwQ0SZ0fAPM/OSseehCxNqKQJti4ACd4YwL0a8I
+U1KsoeYi6HW398ce3t+PF0ZSmeFkZn2lPvXwxOEhuMVH/3IIPr+9tePShhD1VZqV
+Y5Qvn1L79deOXtNY9otzF7j/6zUxAWDTv73ZiZ94RgQXzIS9ysqnBx739FCR6bc0
+ktBl80pPqfAdYOw3P9/diyD1lc3t7HtON+qh68igrT61rPIdtUF0J5I4TbPuRNAa
+EscjO8UTSzJNVGTYihSfQ+m4YaqoiOTAiM53Lix13/X2hqm4CyjdOzYfTTNewah0
+VePg/c3hM6r84dzeTMWVyzfu3d53YlARyYHRA/v6aJxGJKTJocmEBB4TjKjgZdBy
+vkgOhSwOeW5dWjm5RwMZfuzZ1pRh8UJzV9IAI8pGH2yWUdEpj+xMZnDGDafeZpfr
+zzihftYo1NuaohIGmNk7FOOsR1RwiI/+1KasQ6fMtvZGHz04IJ9Bm5UTVwBo7tnZ
+fdOSin86pXbZr7ZzEz0ACgCp1z69n+UeOPmHS5pZhBKpqOuGlXdu7eRMeoBEX19f
+B0pWTkVc5hKRU9HX18+5rjF86m92sXtoIFIAXtyzoYFGIcLF8xIgE8PTP3d0+Nal
+VR9Zoscq++mu3rt2dMkXqeHSs4f29//rGx2mKdniEetA2+zxdFBRzv9X92ydUioi
+xpj+sy+04bxJc6nnP8+cO3U3+vrrHQhGrN69fF7o3LrgFCERMahoZ3/sL5ctOiGo
+iBhgdNeO7kMj+vuKzfWPq2u5gLNTd+t/3tQ+kspg+GtVyV7aUHrlgrJJZwgPHWk4
+pVORDkZo+wHKAeK5viksoaL1j+6CNMl8c5E4iXbCUdFEd16csQJaajSZNl1ZNiuz
+MlEBdIikMgtL3KvKfV5N+dnu3teMiaFz6oKAwk2lnqeODF36xF7gnh9s7z7FmCw7
+pdL3tXVz4CTN5J1zSzn3NQSgL286wuZ2YCTx24MD339bwyV/0CMgUJphPbIhc7gQ
+E6C81htlYyZhGVCAn+gtiOHNzf7AIfFT72pu8Dvv2dXzpyPDUIa3BmIwWji10g+9
+a2ckUfeLN8+s9u8ciAPxwxgeEty+uva+3T2/zP24aIYsi7CGnAND8SVlHvSnfrFz
+dGPbYHskSbeIXhB0Pd46COPqaq/jpc5RSHntgrIL6kueatO36eVmypC0aPnxjthB
+sd3UcaMih6p8buWYXdetji/5EVeKuYQzuJi/qcTdEtJ9ciUesre/cuRoJAk3XVTq
++c4Z9VblBA1n9RXG67SsYU72Dsa/9lo7Hhs1VcJu7Uun1EiQCF2S4TH35F7HJGNw
+SqTzdGI8baIif32gvyeW4pat0gaE95UNk8rJX48Ot44kuZN0ORttcnahGSeq8RRc
++V+srfTB05G02OaeyL27etCC9/kV1XaQCDDiqDS4cK3XYYcLEYwSxiI1+PPi+pLL
+54esUm7ujgSc2uKQ2+oJQhoYvmzqHs0YDw7wCJ4RBaP3N4e558JWB6kIDUvoXZRi
+luydiFQ0uZ0XZ6xwhqJZmZVjkS+uqfl/r3cQA49KnNrVC0Jhj6Mvlnq9L/rHtuHf
+HOy/dF7ou9u6Pr28CrjhsYubTDMBvmEhCeUji8tvWlK5pkKHmIf3D/ypfeinb+n2
+GJqJ9yev4wEgFGCWac6gsICQKD+hJQm6JThPlyvRxEBIosPZzS0VF9aVnFUbKDV6
+S+g8t/ZFnj4yvCTkOTQcbyxxP3d0ZOO7Fpne/R9fGQs4WXArQ6gCkOW+oTikp9sm
+QjLocNgNzojR+XxhdQ2mpCfpxtL0zB1rawG8gKs40+xxoyI9tIyqx7PWjAOXOraG
+HIlHXyKu5q2mpp7adA2RQ9X/vHlJhZVuA/netq4n24YgeXOJjIqu/+NYD4gGDLrc
+Hu8ecKqXNpSeX18iUfagI3+xp++N3jGg1lQFidUqcUck+b3t3cA0acNmgLMwrLGB
+kHEHXtPY0JyIq/Gh2H+9fLFVgT//Ytu+4biaKy3O9zn0C/VACZpqBE3IfUt00xcT
+l4hZhQ/Py5kzj+FBrc95bWOZVVtB3b/xWgdU7fy64NtqAnJqvG93H43ZSvKXrZH8
+9X3wMpxa5f9AU7kcswBev/NmJ5bsorkll82zpKIvbWqH1oaHSEPpmyb73Itt0VSG
+BSNiHL+3qUxCRaf9htqK8ibRTlAqmvTOi7MyK0UUjGyk3LMZPXAlIYtAv96+uoYL
+Ajl1ArgDvbHPoT6wt3+b2Qgcfi8rwl7Q0P+z18Q8id+2hLw7B6JIVzNTQEseGU2+
+3jvuH31Dc/j+PX1w/rHWPGoxDT1vh4rYvXcK7p/ICTTj0UhS3CeE22iWHF8qchok
+ZHzmURENM8NRERtKh64nglftwfMbrQrw33v6frW/D9IvDLolVPRBY1yYstBCGBiw
+yuv47PIqiU0CdOTtrxwhOfvKN9bPsdKmT7UNod8xIhG6p1CFKi5rmgQVuTTFqxWg
+ogPDccIgERy7kFNzSGRwknkgylzszbF9WvBPavM7py641ojvbtpK39naCdWEXkmC
+RIAv/7y5fdjYSIuuU0Ohi/7YBfZQYFxW9tkVVe+oDVpliwaew6MJSHluffBdc0ut
+kv0zUBE2lNSgBeOVRw4O0OeIU2kkF3ff9BKkIniICT1xVnQtOuGoaNI7L87KrBRR
+7FDRzS0VX1hZA7/ozT2Rf3ipzcpdZlYmIZ9YWvmD/CjwSEViStPzHN9Qa1CZ24G9
+Crf/tHhSLsCm393WJbmj6fnjRkUOw1zEUpEYec+Kik6v9n9pTa1VAYCKHj7QD2nh
+Z4CR2k3lw38+ZGxQNe4CjEK3jEBWmBdwSe4FqvSh/f1v9EaBJyq8jq+sNTdXgtz6
+XGssBeowk8qO2RiouciUikh+UMQiUhHrGI6GIqdGWCTizELiMcdDxJjCu3pBSIKP
+0GFtqAlIPKyHk+kvvHykMxfliA0FKQp9E/Q3xyC8fz+jXnJ36A1/uacP6nVBXYnE
+mPdVw2cIwCjoVCUABylve6ktms5yz/G9TWUfWVxheglQ0Rm/fStlJKauRekTmYpQ
+JrHz4qzMShGFbtsO6CPiOPzef/j2hsFk+sF9fcUKfDwrVM42xqI0AAQxNumDx3F4
+JMEC0JnV/oUl7nlB96HheH88jTYkcXtpYlBRmVuDNPCJ017wfKnWAC0DJ9GvCN2P
+5J3MeXP04rEQfGlD6eoKHxSDLR6chNth8fYNxV/oHD0OVIRghFQEx/ODrlqfc3X5
+uJnByqkI5fQqf6XHIVnR/aVNR7b3xwpS0Uf/cjCjh5bOmgYfouYT+PODzeUY7s9U
+0GkGEq8q91opRaKH89cRGHRhjPEWSujzMJauRRK/olw59c8JUVGrEfOQIhHW1KWp
+LBKBSit3O+r9zoAwI8Z5gDkNMIL7Lip1yz2xvrK5HTjDY7oTiiFPtQ3du7sXOYOu
+8yJmYESRiMYfgtdjWZlHDq/fekO3QsupCKf5EIzet7BMYn/66Vs9f24f1p2KcvNo
+UFr4Sf+tUdHJJBhgBg7u39NruupeDDDDilWAmVmRCOjFve9dBsMP0/00cAMyuukp
+NRVMKH/4nIWhKRIaOmtmimjHsinHjYpqfM6vrJuzJuwt7loqXD6NxwWpiOgKiQcj
+9Jtm/WwWhzxWa4tIzsYABxfOLbGanSmi4Bq0XFH1T/tUBP0LILY67jaUZyhya+qy
+sOfdhsNWEdfQDSfTGw8PbeuPSgxpIN94/SiwLBIGGxSbCGBEqQh5CKvjUpXvvW2u
+hMy+vaWzP5GCwY0dKiJGnnesrZWYiz77wmHO7Cenorf99q3EuGFplopmnGDcoGqv
+A/p6U7IRA8xYZTKVxTxhBEYgX103B8aT8KpT71pWEImIEe4VOmoYF13IrJBaV+nb
+dGXL+kd3widuLvvEJc2VP8/bNSJ181rxvuwK8JtbKj7WUolD7r5YUlzTPivHIpPg
+1OmUSRfv+FDR+5vDcn+dyQkg0QP7+p86MoTTcHIquuXZQ7oCzurlpWAkIhExFKRk
+hT/aIdIZIvFZKaIUl4pwBgour/A4/s8KnfyKHlMAgOBew84pseUQw82LOl1xVEQY
+MGJjVdPpM/h0q+ptq6okM3Tf29bVEU3apyKQC6UL1u7a0Q0Yx3oXyalow+/eiqVn
+qWjmCgANDHzhofudmukIuOC2ZaTYVPTFNfqG4d2xVKXH0RBw/fbgwAkUYjH60TXf
+2dr55U3toJzaP7CCLoxCgZNvvWfpxrZhXPeHi737YikKRretqi51aXA50BXwENGd
+EA5ZRfYDPBLD4WBgQwpkGBWa3nFWZsVKjgMV/d/1cy5rKJ0KJHqxc/THu/SfDSrL
+iVIRevJyVITzShKvbWLQxolIRehn7dJUuRvNschwMv2zt3qHkroTs30qIvk+VURK
+Rc6cd1TRqcitqZI4C+gbzvrOX7kgVJCKcLHhLBXNQLnztPqRVBrg4z/f7DKdQUPi
+EQPrsSL/dkLyvqZwTzSFwVeADFrKPJzf6AyXoQ+v/sqrR//tzU4gnkPXLy+59w0u
+wZpyH7t2iRzD4D5+0ylcfEJgoO+/raHm/q1shshnn3iu9advTbnT25XzQ3MDLrem
+3PtWL/V5mJUTQqabilaX+35x7vyiz5rB551bOykuEEPxy9egmc6gibYiOChza/LZ
+n+NFRYTxSbezMt/KVoQLNIpbTuChwyOJP7QOxTNjRCOnIoDUkWRmEraiqaAiugnw
+TUsqJAvrvrSpHUa3tMAFqSiR8yuapaIZKBRorMjGzgxaEamI84qYtJPE8RL4rX1x
+Tc3qchipKbe91AYg8pHF5QAKaEsDQPn08srL5oUW5Xqe13sin32hjXISJnhPY1mj
+sQ3q6z3Rf9p0xGr5WPSjazhb1GMXN73RE/nypnYuJTy+s+cELt+4r7iVFeXvllX9
+cHvXmdX+co+DWwQ+KzNcppuK/nBxs8RzeaKCm288enDg+fyQcag15VEc0dua6Kp3
+3G/FdAbt9OqAJDTiNPsV4T5oJLdGnUZ1wnV8BeMVcd7WABNz/I7Pr6wulqFo2DAL
+7R6Mv9o9auwMS4CK0PDz6eVVkrt8e0vna72Rgn5FVjNoLlX52dnzJQUDKjo8mrC5
+Bo2K3Ir28P7+h/b327cVzVLRTBY7AWZWlfv2DcVNA8xcMT+0rMxTxAAz1zWGe2JJ
+5IDz5gSbQ56Z7NkqF2jbj7VUhFwagB1tnJ+cNe8vR0foThFfXF1zTl2Q+lzDma+u
+rX3kwAAucbpjbS0Q0rKHdpjmP/Th1ZwtqvfGVef+Yd+Wbj6U6Jpy38ZLmqru31rc
+CopCPZFNXZLhXarzuyKpDLTJXL+LC2A9K8dXppWKfA7H5qtkG3hhROP/PTy4vT+G
+K+SVsRz0Yy0X7BETd0aSsXTGdPG2nR0/2JX5rIhg9DXrKEQkF+cGEp9fF5RECPzu
+tq5kbnoonSHxdCZtaH2cxcsQXTHiFBLdQjXFxPdDgfTQKSfSWZUJZkjNRUAJXofy
+/BVLrIpqujL/yvmhY9kEAx5B20gS9+6GsvXHU3TpXJxZYQefcvb669HhH2zvzuQq
+TtegEam3tZpjo7NqA1axgkiu/aEPklMRjVfE7vsriV0El3zy+cOxVMamX9FJSUUw
+GvZq6mwMmKmQG5rDHsf4sk3JfpkzU5aXeW9pqTivLrijP/FM+2BBqjvy/hV1v3jT
+6tuuG1Za0Yz4lSSx/C7FErojKT0w/bbC44DR1An3ZE9umT4qKrg7LGiOz7zYtnsg
+RrkH13E78o0i498K+1Gg0EB/i0rd37feHfaDOZ8702BFAEa4OOvSeaVyC9B/7+l7
+vnNEK+ScS5cswb+EAXPivus0eCMeZHKRikyj9qg5vyJVGQ/7BCPdF99tSUWfeeEw
+UFEuSOPY3NPl80KgziUVtCPARvuNmBNoHyICEsG/SxtKJWvdibF6f2tvVL4AjZit
+zC9xqv9xpmwBGtqBCkZxxNjWJFcAQsYCVkk2lP32ls4XOkfsrEE7Wf2KPrK4HL00
+MFTJgeHEy50jRQlvLW6mhjFO7ERCgsK0hLzdsSQbmORDiyrgtXSr6pbeCOfRwsrp
+Vf7VFb5YKrtrIPpS1+ixVKGIQtv5hJClYe8/rqppKfP86cjwvXt6d5j5aX1uRfU7
+55bU+Z0uI8BHeyQxx+dqfnAbTfD19XM+vKgcjw+NJOcFnFY0I4IOnFn+8E7RSwne
+n1fevYS9yxQJRgVcV+mDMYO4+w1Q0TNtQ/AzgU7D71Dvmw3uNZUCrV3pcVAjZWPQ
+deHc0sFEOp7JPmIEjeRkOqhIHYuLU4CKrn16/y7DY4YGJ6IBr0kuuiP1LzbNgQUm
+PbZ1qfsuayqiO36IQgP5nDOnRDJ3RnIL0Ib10IMF9tj65POHEQ7o5lkFkQh5SLRm
+oYwZinLNizNoXof2ypWWM2iffK4Vd2mlE09w1VXzi0BFKDh9tq0vtm8ofmgkbrCC
+Xn5koyqP8yNLyiXmIrgcGvPNvqgkWBEKG8Wx2ucsuLfa7w4OPNmme63Kd/y4/ZUj
+aLrLbWA/5np/5+n1VsXujiY/+tdDWOC/wZX5DUH36ZW+X+V6lusaww/uL9ruqna2
+CLAS9OR9X1OYne1CZ174vLCuRFJOGmCXHhxfARYMOZ2Npc6n2oZe6JwplFZQaONf
+MT/0OWN967+92fXbgwP4LRBPrc95966+TZ1jVsbTqwI/OauBzpHdeVp92KP9+9Yu
+nM1cXuZ99MKFVjSz57rl3FePXND4RNuQaIMBuLx4bind1H3qBKqzoMQFHZT4ul5Q
+V3JatX9z92jI7Xixc+SM6oDpnOysFFHY3/KV80N/ah8eSKRvaKq4f6+JlW76qAgO
+fA6164OWVLTq4R00nqGWsw+xf7KmI1bU/BPUpLSkzCOnItMd0IAV6v3OhSVueSxm
+lM09kR9u78KrgIqspqJA437s2VY5EtFVV4hEKcZWZCXYsCwYeTT1tatbrNLf+lzr
+vsE47pVBcnNPV8wLyclvcgJVjqUyL3eN7htKHI0kcTbwU8uqCrp1Q9f/fOdIZzQF
+RcUzXDQpPKjxOWp8zrdXB86pC8oDSKKhKGG0o5xcP//iEXQyo+ZDtB2ur/S/vzls
+CkZARRvbhn+5txcA7talFVYvwMlKRdDXvNIdaR2O0z85jABsWlnmheGQW1O29Ea3
+9kUvnlvSXOoBOofeoNQ1tgYeIGZ+0BVwqvBOzvG7/nhkqCOSvL65/JCRM/Rf1F/1
+tlXVB4YTXsNQXHB/e1NKC7m0t9cEH2sdsLoKSogL4KH3fPSgZbJZsSm/u2jhHa/q
+npdfXVdL3ZyfvKSZjU5EjOnCW5dWnfnbXfjnq1e1sHEdgWY+v7Layq+ISwxyVWPZ
+F1fXnPf4nkHGXFTqdjzxzqZ/2dLx2+P6WL+4pgZeb7T8QZEuqAtOGr5/cta87X0x
+ifv/lMqiUvfuXC+NUh3Q3WM6R2bcTojsvmwArKlsZu9g/LKGsuNARSQ3fWaMuQtQ
+0dJfbQedwZEQySckFo84oVuFkNx0G1DRPRvmFaFKFoLWhUR6bFU/tLuV0QV0583P
+tuLEGepFXLiUTGclJiLkobSFrYhtFofRyA6DirZcs9SqwLc8e2j/YJzdZxeo6JoF
+ZVZU9Nejw690RU6t8i0P63Q4OY/sPqNXumtHd9toEqMiTUUIAMndf8M448MzkpDr
+J58/TJjpM5JzZQP5/tvmSsxF3bFUTyzVEvJYhVw/KWNbl7i0i+tLWey4Yn6I0zeU
+MAjTMeHyHDh4T2MZ2plYow7dbNx04yS6BMzOjJJIaesqfadV+u/f2zeUSFtdRXeO
+FLeQnJVJCGjuf9+qP+5/WF1DYwV9/x3zOkYS393WBQ8CXpKLjXntxlI33SL+/nMW
+/LVj+Mc7e+A1u2lxxbn1wbDLQZmJkxeuWCJ+dXNLxQeawnfv7MFXC96xaxeEXu2J
+HN/NVqGX+MyKql/s6Qu59bFcwKk93jooeRvlcudp9buHYsfLLQmoqNrrhH5s71Cy
+K6qTEFRnTbnXpSrtkeTOgVjBHKZNLqgrwSAXIHP8zvPmBIeSGdDIpgHAppyKWNci
+r0PttqaixQ9uS2XGQinSk3kwlG9AImZTaex025KQ996zp4qK0A1lkHmbJVNRoDhv
+/PNBFom4WTM0FFETEd0aljUU4SFbYeprhbYih86d2pvXWlLRR/9yEIZO1FBEDDa6
+vqnciooePdBP+TrkciwKuddV+hcEXZPAmm+8fnT/kD6qWF3us7K7FF3gGW3ujty7
+u9eRazWJExXa80g+FZEcGF0xL3RRfVCyz4xcOCrCiUV2D+ATkYrOrg12RvP6PhYj
+8BjYBZCRzvai6QXG8Y/kT1FRPCLMmh1u/guFnjT9lhNTY8+acl/AaeLqAbq51uf0
+ampfIo05Q9c560V+7LKhJnCd4R70g62d9G0B9Xnr0oolIY9LVQ+NxOF3Ck/qIWPP
+78fbh3+2oxsS3HFKbbMxHnuydRAw+rGLm1yKAj0Sjdv0m4ubHcYvJsX0i+9+YtwE
+hbw1P+iCn95oKvvooQFTP5LpFHjnvZoi4r7XqZ1W4VtZ7q3y6n3j0dEkgMWRSBKq
+II8aemA4cXz3HKzwOpaHvDAsZFdurgx7F5S4YYy0NOw9tcK/rsZfqqmD6cyW7lF0
+qJJkWB1wnVsTWFjiXmU8/Vg6axp4Ex7rBfUli0o8bk05PJp4oydKuUcU6Kzofm30
+d82iEivTREWotj2a0nvjaqsLmx/YlmAUEutNPHZGcCrSBH4ijD0JqPzn5ywoRp14
+Acr50qvt/fE8wJdMRUH69z1zIK1vmZ7BWTPDwpRnIqI8REieFUFSDNq21J/d71B3
+vGeZVXogs90DMdZvXVPI9c1hK28Y3BwejylYAE6Vexwrw75LGvTFXDb55p9ebT80
+HMeZqVPKfTcuCk+aMGwKtPlLXaM/z/U+aEe8TPqMbn62lXX0xlZSctOUX18/p+CM
+qqkAEv1yb/9/butEHmKmz/KoCJ/0CURFoiWGtQzhMXsGBv04JqYmJUotkBW8mVv7
+oqdX+TfUBjAYMTv/ReP70ZMsSFmJqbEn6NTgLmJviKapdZW+M6sDqHetOs1pE2iW
+gMfxs9zSLRjjnl4diCbT0VSW3ZKTyvIy76Iyz3A8jcWe43OeXhOAP+HFM02P22eC
+DKcyr3SNnp1bDAG/8dFUGn2Y4CT0ElZDfwDc7ogeLi6eyUIOAEB4fiSZQX/2phJ3
+c6nbqsATFShwwKVJ5r8+tLTyYH8M7gWvFtSaDupmiGAQpvt39+8fzmtMj6Ze31Tm
+cWivdUe6otBDZCDlolJPQ1DvJGfyLiXwjsFrCQcw6O0zFKLPoc4LuCo8jt5EujHg
+Oqs2eGAk8UrXyGgyAyfXVPiWlnnu2tUnBk1AgR4DXvujkeTzHSMHR/SBNPS+ord+
+g8/1qRVVW/siW3qjkVRmQdB91pzAxsND4miHGOtkq71OGMIBuu0ejAN3rijzohOL
+qaPeFFIREcAInn3/hyypaMEv38yjIoUejLsVk3xLErEwHSElLAt7f3lukakIp0u+
+/noHPAk68YFy3cKwRONe/dR+1kSUzBTmIYlHERVVyWMjeCP3vHe5VeLr/3hgz+DY
+r9GRW7n2/uaw1Zr2/97T94ixqS2dSKKuV0YOxGP8AE6t9K+t1EMdSggJA0iSnCWm
+2uf82lo9qOMUsRHu/fJk2xBnTHxPo+wZoT2PGI3PvmbUuftfTqubKBhhsImrntyX
+yow/dGMSTX/WFHxPOCpaY+wtxa7kAtSA0WFPdNyNA3TzolL3vIAbG9ClqaDPQHEu
+KfO82qVfeFq1f5ehw4ih8ACbQJuWujWELRhurir3xtNZGAu+NRgHpQuYsrrC++d2
+vSPbUOPf0huxsuXAXQJOtdbnhO71yGgSectpxLUCtfrMkeGRJD9nQTHrI4vLD4/o
+mn7fUIwOaiFDyC2SygZdaq3XOW2eHKy9Co5f7o5AyeW4RofFcLCpe3TUCEhhmp5b
+5Qfaost4fPBw20YT0NFBowEPtVq7ieAlMP4cTWdbh+OQnl2153NqZ1T6imtvYzlb
+FKwpVLwvnoKamK59m2ZpDHooA4F6nhd0izZOYPHGoPt3hwZj6bwFJvAg4DcyY+NU
+LQ17U+lM60iSFrvG66r1OYA/2g1WvmNt7fb+GDd2ApJeGHSZoh684e+cW/rH9qE/
+d4xGhV8oK0BOoEpYS/CpVf63Vwd+uKOba8NJSPGpiFiYi4hBkRIqmvuLrTTUjSnr
+8KajXAKOn0gOEYCK0CRbFEEe+uH27v2GB6i4POq9TZZLkODaSzfuY72I0LlEwkM6
+chFFvgBNIVmVmUGDI79DPXD9Cqsq4Cq/8X1CjBa8aUmFFRX99K0e+kLTp4Dr4UmO
+jWik7FKXtjDofltNoKlEd7jjcOczLxzGGTQ2CtGZNf5PLK0UEx+LQFM/1zHy4109
+puvX5M/oPU8fEL24cnY1/Rga+erG0FXzQzYLjFai723vMuxD44YiOn3GORWRE4eK
+WO/F4opc7U2dUMOV6B3FnjSctQPTZoRgwQWUUCKd7YgkzzCzdVEB1Ysj4OVl3lgm
+e3Q0cWZ1wDQ9BzFiDqCtX+22DGFAhSZbVRlgbQBNpZ5oKnNk1BKqIMGSUs/+kbjf
+qQ+oNnUOQ33hF2f0kOSlLpNxP6jDzkgS6PZoLCVCD6jG7X3RixpKdxpfcfYtYLjT
+qvzd0VQ0q5RoxNSuUFwJu7VqrxOKAboPKH9xyNM+qlssYDgBxEMdZOcH3QeH41Cp
+aCrLjjQAMi6oD3DTbcCgK8Je2r09e3S4M2q+o0i113GWYf9TcjOMqkoyGX2HKzgj
+LkQIOrWmEndD0FXi1EsGQ/9DI3HOn3pCAi/GnqHEYH58BK+m/p+VVQ/sHeAMZmVu
+xyeWVf7xiK2FlqA4Nh4Z3juYl8PNLRWPHxpEIDsWmRIqIgIYEUOjeDVl53uWmUZx
+BP2x9pG3Yuk0t6CMMFBFrFfmmxqWgIrufnvDsewugnuJAAz9oXXo5e7RHuHlY5Wo
+xOgCtbv4ib2mPCQah9AVl6CXydjB+F3o+41tgH9gJAK0xm26colVC3/8udad/Xkz
+aHAMVPSp5VWmxf7Rzu4H9o5jvsZQKRtjGueYMA3q+Fq/c0WZ97y6YKXHgQBx63Ot
+e3I9VJrxIodPKO07agJXL9CXhk3uYUHVnKqysW34+c6R7dajQygtUJHVM4JnffnG
+fVwoBEc+kaO4VPX8+uAtSyrgUVo1NXz+YEf3k21DMJJO5ZmIkIpObEMRMfh71Cpw
+wsQFFEZDwAWN7dTU7khyGtSVKMh5oHLgXRL3QbtsXunmngiotLNrg5Bg2mbWTq8K
+UDgApb4q7IOhME5XWV0CZIDf6hMW5b7RVDqZUTaZTVgAZgGMeBxqJJmhTiGgnOp8
+TvwTjS4uTdk3lJDsUAb4helBp+JK2FgmvbM/vjxnWIW33cr3FhTn0UgKyQnKU+7S
+YsaWA3O85jNl1HhG0Y0VwKxarz5349S0vf0R8RWlACfuwjYVAjVCdIOmSJPM/ID7
+T+0j0EpAq20jCbRqQJnXlvte7BxuHU22lLmh3ejl8Cur9bs43Q8nvbnYnsi1Vvus
+wQuwvtL3cteoSrVFloTcDiDR1pE495LDcz+9yjeYSANVjMIbo5AKr7Mx4AKuLbp3
+3ceXVv7+0CCHy/CyzQ04Cy4sRbmuMfxsxzAHQHDyL0dHOqLHugJuqqiIMH7BrNHI
+oxsWsqI/NUg8neVmxxRi7nzNnuS8j0m+UzYQOksAxIyoWEF4By2vKXhrfZG22Yo3
+XfAHR5Wow1gbj8fpcQsQZJSBlx/6JjpflmIW4acZGELjEMIQ5S1TTcnVGpf4YYwl
+jwZNrC/lU3MBHmmLwY+Qi3JEDB8CeChQcbbW2EpJYQ6P3Y+W5HPSeLOM4Q7BzOFF
+v3hu6eOtQ7sHozQ/Ch9o7KSNAPmLK+84+w03T4oHrCeQ6RJFkvPBx8BOXM5YgLhh
+zOOuyvNjUwm1zkJKeLvqA64lIU9pLjQADPhaRxOHhhNDiTRdSMg+6KRRbfoCkBMT
+iU5KAb1V63OCujG1VAWcWkvY51fJroH4kpC7KF4ydoS11lBFLtfoYrKCBABUSnUk
+tEPbaGLA8ACjuEO1uyjVXodLUw/nz7Lhmu35QVdfPA2/BWBNKypib72qMnB0JNZl
+YflAWV8ZQMLj7FIojUFXnd8FVM1617JCa8Txx1RIyKWVuB0YtwIKtiDoPjSaBMQp
+cWk1XkdHNEWXnkFd/Gr21Z5IAzDQkEmpPKq+NRMe+xwaVCHs1uCdbAy6gWOsHi6A
+zqqwl20H6P3WVvhGGAim599WHTg4Ej+Y7wft1VR4AwFfihKXFaU64LqwNvDg/v5E
+Oq/Pe19TeFPXqGn1RQEcBN3Ksj6wJnTFTx4Z4rKdhEwhFeVuwHzmT6ihULWtEBNe
+YS0ihJk5IoIyZnNjXW2IENdHXmBu1ZspS1mtlmeFOtKOxSUynIpE4xAHQ8YmJPrl
+BV2tmQIrOYuREZM7ZzqiFecsbYTwzeJQx/6kuCNa7Dg4IBZ2FFp3lBTFDmbMRluP
+ayKsbyrHiMQ6VtN4UG9aCyWPlqwKRiweJVcS9nIxW46laGnFknPPGpHoRHey/hsX
+UEUrw57piaYIKhyG+33x1EAyA8oVlNz8gAvtzaaQMTfgKnNppS4NNCWgRsH0oKpB
+xaZJJpkmVBuxHFbvdwL6u1SVcpIooI3otVAApxEgJZFJt43q4/imUk8mA6OgzEEz
+tQoKssHrGkmmklmCFhHgA/qtCD2QW73PubUvEvY4a72Obf0xzoIFA7zFYR9cyNrY
+qJS6HYtL3YAjA/HUwoC7N5mmobamQqD1umIpVNIAf/Bc9gwmfAbbdMXSDUFXJJlO
+ZggwB3ASrreKpjMAhRgWmK2anlU0lchkXUbcWmDQOT59STyQlsTxC1gq7NGoQQXQ
+Z3GpB7o1eBm4ES+8J/Bim27/V+V1AHsVK8g7lOGi+hJ4Gbh7wd3Pqws+3TYUcjvm
++Fz1fgfojo5I+pAFJUOLnVLug59GZzQJdQEAbQi44S21CVVymXIqyt2G+RTsPYSY
+AVG+qGN4pLA5KHwa3tuGCGRjqim5HFh+srIwycFo3CgiTJalLWbKRB5i3U04YUvD
+tqeS53+tcGY5kk+NJH/9mlhrVrilfwUNbyz6EDPbD20ELj4Tl0BsAVpyIuCdnHrF
+UFhcSUj+9i/E2sefKznJB7i0AEaE5CERdSeaRaITRUAfl7l0heZ3KK/0RCJSV9BZ
+mRXAFyBaSiRryn298RTiC7DjaDJNV2yF3Fr7aBJwodLrqPY4M6rqVrKqYVAHejsy
+mhxN6UvSHIruywGMAoNYSA9n4ukMUM5gImXTkNMS8hAlu3cwIU4CLCp1R1KZoaTJ
+nLgR48bzRm/UjhczVCdiPbGO8NcTS4mMjrO9RyNQLw0+AXegmuU6IeleWaauQlBm
+uIrofSl2ztndg7G+uMkPEyd2JfGTTq3y+zSVGtWmiYpyN2M+C3JQvuSIx/Qrmv8Y
+M+UUpyL6I3OXiMJaGrjlb1TYmaC8kjBnRJsBM61GTI1DxIyHJCpTyT9Q8kFBIYqi
+8GY2wlAjYaiIMKxDaz1eL4U9lsEiCodEtF70DJ18ZJmJDUYwifV3XFGt8EhlktE9
+5riHhSlN4z5QkTNcJp+30ozFaBaJZmVWTnoBfBlJZhARSoyVKN2GgQZ6kkQm6zAm
+/Q3rvtIfT0GykEsDpPBoSiydBQgALV7q0sJuTVMJzvRBJvAt5Blwql3RFIY1qvI4
+ASDs+BcDXkCGe4fiIhIRw5TF/il27HDhsI2RAGCKlZMTYFxLyI1r402/RWB6azDP
+jlXnd9X5naIXXUPAVeLUjkSSaFGD5gKcqvO5Do8mTAsA+Ui8/gkztUqmmYqIoMgn
+cKHZBVbWJmpYQiwwtZoIWeVlqxRS/HJJC1pWnCxjPYfYybLJ6UvFbNEfyeHRWJr8
+6Uhxok1eZatYCaJksuZ0SIVtn6zAEFmjjDZiNeUZBVkDmJWYVk1ksvy70GO+jiT/
+2Ym9DfvEWSQiuad8giIRdEnzAi4MYQpNenBE5oo7K7PyNygsHwCRQJfWPmrOLk5F
+cTtUMVQEMbrolpD3wHCcuo1D4lK3RnNeVOpuG01KzDMo1V5H0Km1jSZiFj43kE9H
+JGlqK5IIgBrtUaEHQLCLpfWYfAOJNNwREgBLQZpytxaGBokm4Tx0qom0bpeCBE5j
+i4WoUaqlZZ5WSJ3NIC925+q4pty3byjGls2lKotKPbsHY4n8PrfC6wi7NFPqgkcg
+Z0fWz2y6qYhMnIdMr5KziogFplaT/Pyz3Les4YS7gHuzuPA2oppkJ8uogSSbn5jY
+NhFZCQtGViXneBGTaeOX8F5f3IUoVkYUU/QhFnYUkt8+NAzBWPXHmiIvpZVRUMuf
+OLMzScqUOQ/acmVQJJ7+YmUz44CrCGfGLYInBxKhsE6y7PFJIA1B95S6m8zKySeg
+/ivcTm6pOQpwzIISF06EmV7rd6gwzLCa36HcA5gFvYdDVQbiaUoDjUFXRzQlp6KQ
+yxF2q5AJvcqjKcAoLKWhl5LVCn8rgSJh3D7oJ7EMNNoqCvyZymTLPVqJU4OxU8Ch
+Jox1uB5NBUaBYgScGmpGuAq6kcNGkXALZ5rP0rD30FCcbT19mYvfKdIPtGSd2Xli
+cKG8duyCgONARWSyYGQzN1briWN9zjPJKis0RRDriRi5UOVKNb3EkzqbDw3kGPSl
+Yu28JeIRNgVjaMlyRGgqkqlMKnILChEMQpSEaBNxubHCGQVNkVexbkKRX01LInHz
+5y4xLSRLdaK72Ekwd0YNztC1NZV4TP00T0SB7rjc49g7GIOOGxSSPvFNMiSrOyUs
+MjY2hiEBugZDPxs2fDuKuDznJBPQUqDA3JoeXVbUVU5VqfW7Qk5VI0qaZLui6Ums
+qa70uqo9Y1FmO6LprmNelY0Scml+Y2GpfNqFCtQUOOOwmddzpcehKaqkatA4aMkQ
+4QaAJuRWTR3VUeYDFUWSVhYgYngxV3i0nliatUXBHau8DjZbOFNjcIMpugHzRVMZ
+cerNlwsQAN0j5k/j16NA3UtdejO2jiSAhyjrQO8BkORSSV88DdQYcGlwfm7A5dWU
+nlgKTkL7o3d/2K3Br4zzoYbbzQ84j0ZS0XxXp2pjVtGUfqAk3RZTeyjsooHjQ0WT
+FlYjZoUzYjK54YQT1hTBKcWJCmfwMDUOiTBk+ueERGE/LUrPNQUHFhKqmBAgisBB
+ZRz+snncwH5VcP2daS3wuGAxFaEYhJgDGbGGaTGUlJUvVDb/oZ8ESESMfg0PPA5l
+W19U0i+fWEJpj8E+GMo7YxnSEUngeiLWRwFG+ZLQz8cokLlLU7lwNayAUnSpilWc
+PRjKg3aJZ7Km2nqqxTCfaLFMNprKlrlUkR2bSj2pTKYjkoqlM3q0Q5+jP5adEBh5
+ndqCoKt9JDmQSAFAVHk1Ns7ysUuN12WzPBiNT0QKTdFjsA3E0xKnHCQSYmz4FUll
+Exk9EwfGYXeqGNqAvZGLcfmER4y7nOKfGX1TqSybMzTsaAoeQd7d4aUCWOHeCj2O
+gB5cPp3IEHguxhyCgkQL3wKsiNAGlAO3BuUB6bEHKHGNxSiBp1Di1P2ioDhDyfSo
+Mf/lNVY7Qy9a7nbAr0bTx+IKDJChpoOJNAAcvCcgg8bWUGgYCzjU7phJ6wGGlrm1
+4VQ2nhqbx9e9shxqZySZEDpiKIbXocEABr4y3Yi3MagvwYMKjiT1N/AEoyL7IucD
+KwVvNd9Ez2Tz1Zkdp2BTGCoiCXGiCAdE6pXF+uJQHCS2iRAzMeUeBvtkdiNxJpHk
+Xy4KVx07yCsXqzLYyVzy7Io4PTrTBKGhJeSBTtnmeHrmS8jwb0X9zY4dg07Q2U7o
+cMXe2cqL06UpYddYAHSPRmBkDAoDFCd23/bXDxe0/Bd0mKj3O9ssPFqmTUzLAE0H
+oElxGulzQpGUoe6pbJau3AZEgGa3ct+ZhBQ0MBQUeOg+TZOjFVQcqOjIaNLv1Nya
+HiIIV7aCkjY4KZOfWF/aBqNNgAnW2QH72Fgqwy7CAk2PUap1+Mj1OlSdie+tx2Ag
+KI9qaIJ0BhAtC2UA2ssWGqaKAsxU6dEy+hA7m+doQRSVZK2mFNFKB6UGZRFNZYaT
+GSvMHSutTlo6lgHMDSVSRRmdnbRUhMKyEZnIwjeJLhSb3U5gIQ6GplQvisU2OZM/
+z2iaRhS5yw4RuCeb95Ws0uyXdhpnEs+0oJgW8Njz54yCJwESESasH42kfBLIolI3
+NTZgHEJ0U80YLhcNAVc0nYGemsUUK3MCqC4Y/iYzWdDTpU4NlCv6hcAoWDOWHdks
+Et2bzEoK2jMk2AR6C0bnA4k0RixL6eFwQI1lnKoKakkycTNRsWl0YbcMsyPAVX2J
+NN0wC9R5ucdhn9Gh3wMIdiiqEW2eJAW1agSLSgccCrYPJBpNZpK53zPGmGa7RPFJ
+weOLpLKmntScOFVFnKLiJqQmJIbjc1bS6waNKcKsvpVvmt4OeiugFjgzZvUxfIbg
+paVpNEUP7o9TVwBwTsMp1XR+raDoE3P57RlwqvTHBd9iLL1EOgOH6GCOYZnhZDyd
+KehjPmk5yamITGTVm3zKyWZMRZSsBRxMp0YsXF96IBDSJG4hmfySt5z45cSoiB5M
+Cl8kTl0FrW7234jj8gJMnYA2mhfQw8rtHYrDca3PQTdtOHEFdGp9YHx3hfkB18Hc
+FMP8oGsklcENf6BfLnE6qI63suVAFw9sMZBIQefuUHT/CRi4A3YYkwIFjAesSJY6
+oxwjNlUbahttYLQuoKEBFybqeyuRCq9D3C6JE2ifCbUMMTPUzfE7bdqK0JgXSadR
+o6uGDc+lEmBZCkZlxnbXkCBuxNLwaIrXoY0A7Jr98sU6+gw13wOUbaOnKHGqE10C
+JherST1OoNmReKC0qWw2kc4CLcH74NT95/Ri+5xaMjXOLjjThDXClJMuIdzC79Tg
+N0LPhFwO+icSITYLdyNa5imSvyEqIrYnWezoV5saMWtxPG1ik40mgRSmi7lYsUJD
+K5lo+9jn3YJiRS3FusVJRkUnpTQGXawHA/S8Vbr9XxdQFZqqTygQYy9kUH4wVsb4
+MQ5FSWSypuCCUaFB7/o0DR1fVGXM2c6+rQjoxDQwHZWC2CSfg2OhCvhpMKFXDfJU
+jP0fbRayoBSsBTIKtNKEvIJE4CvIiGyREhnCKVevvveRwtpO4NGzRQJ0djAJuAy5
+OgJUAW9hYnhVgJLx549UgcYYY9VJFhQ/XK7PUxF9Xya4CsAUNzujtiJIj16JcDWU
+KODScF9F9HSGBoSXDdANyk8vkcdUJEYfDtyG6SlqcFsccvYqmgwnsJKZsfKTnHUn
+rVtDCeTgMNyScJoPXvhKj8OgT93kRo1PXObUyZqKKXgVdxNGUf4/LTPVSALT5TIA
+AAAASUVORK5CYII="/>
+</symbol>
+<use xlink:href="#im750" x="0" y="0" width="775" height="49"/>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-719.88" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="81 88.23444 90.458889 92.68333 94.90777">will </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="97.92 102.93 108.50112 114.07224 119.04217 124.61329 127.96999">convert</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="130.76"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="133.76 136.54555 142.03652 147.60764 150.6036 153.38916 155.6136 158.95026 163.96025 166.7458 169.73175 175.30287 180.83391 186.40503">the first page</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="192.02 194.80556 197.77147 203.2925 208.86362 214.43474 219.9758 224.9858 228.0018 230.22624 235.79737 238.79334 241.57889 247.15001 252.72113 255.64696 258.9836 264.55473 270.12583 275.69694 281.26805 284.254 287.03956 290.37623 295.89723 304.24388 307.22984 312.80094 318.37205 321.37803 324.0734 329.6445 332.64048 338.21159 343.78269 346.78868 352.35978 357.8908 363.4619 366.4579 372.029 374.25343 376.47785 379.4638 384.9848 390.5559 396.127 401.66807 406.67808 409.6941 414.7041 417.48966 423.01066 426.34733 429.13288 431.3573 436.9284 442.4995">, pages in the range from 10 to 20 and all pages starting </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="445.6 452.83445 455.05888 457.84443">with</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="463.42"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-708.36" x="466.42 471.99113 477.52217 483.09327 488.66438 491.67036 497.24147 502.81257 505.75843 508.54399 514.1151 517.09109 519.87667 525.44778 531.01889">page 50 to the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-696.84" x="81 83.22444 88.79556 93.82561 96.61117 99.34663 104.91775 110.48887 116.02993 121.60105 124.38661 126.61105 132.18218 134.92765 137.7132 143.28432 148.85544 151.61093 157.18206 162.71309 167.72309 173.32427 181.67093 187.18193 192.75305 195.5386 198.28408">last page in the document. </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-696.84" x="201.08"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-685.38" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="81 87.68334 89.90778 92.102169 97.37269 102.94381 107.95381 113.52493 119.096057 124.36658 129.9377 135.50882 141.04988 146.621 151.66106 156.93157 161.94156 167.51268 173.0838 178.3443 183.91542 189.48654 194.71698 199.72698 205.2981 207.52254 213.09366 218.10366 220.8892 226.4002 231.97133 237.25186 242.82299 247.86304 250.02736 255.54839">All even pages can be selected using</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="261.2"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="266.48 269.26557 274.83668 280.40779">the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="285.68 287.90443 293.47554 295.69996 300.97047 304.30714 309.8983 313.1949 318.4654 320.68983 326.26094 331.27095 336.84205 342.41316 344.63758 347.97425 353.2548 358.2648 361.05036 364.38703 366.57139 372.09239 377.66349 380.44905 385.69953 391.82176 397.39286 400.72953 406.0301 411.6012 416.6112 422.1823 430.4488 436.0199 438.24433">&#x2018;e&#x2019; (or &#x2018;even&#x2019;) string. For example</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="443.92">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="446.68"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-673.86" x="451.96 454.74555 460.31666 465.88777 471.14826 473.9338 479.5049 481.72935 483.95378 489.52488 496.7593 498.98374 504.55485 510.12596 515.4165 517.6409 519.86538 525.43649 531.00759">the following line </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-662.34" x="81 86.01 91.61118 97.182308 102.19231 107.69329 111.02995 113.81551 118.825519">converts </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-662.34" x="121.64 127.21112 129.43556 131.66 134.44556 139.93653 144.94652">all eve</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-662.34" x="150.5 156.07112 158.85668 164.4278 169.99892 175.57004 181.10108">n pages</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-662.34" x="186.14">:</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-662.34" x="188.84"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-650.86" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-640.06" x="81 87 93 99 105 111 117">pdf2svg</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-640.06" x="123.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-640.06" x="129.02 135.02">--</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-640.06" x="141.02 147.02 153.02 159.02 165.02 171.02 177.02 183.02 189.02 195.02 201.02 207.02 213.02 219.02 225.02 231.02 237.02">pages even in.pdf</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-640.06" x="243.02"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-628" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="81 87.68334 89.90778 98.22438 100.44882 102.67326 108.244388 111.58105 113.80549">Similarly</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="118.82">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="121.58"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="124.7 130.27112 135.84224 141.3833 144.48949 150.06061 155.63173 161.20285 166.77397 171.78397 174.90018 179.91017 185.4813 191.05242 194.14859 199.66962 205.24074 208.35695 213.36695 218.96813 221.13245 226.70357 231.74362 234.52918 240.02014 245.59127 248.70748 254.2786 259.2886 261.51304 267.08415 272.65525">odd pages can be selected using </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="275.84 278.62556 284.19667 289.76777">the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="292.88 295.10444 300.67555 302.89997 306.00617 309.30278 314.87388 318.21055 321.2967 323.52113 329.09223 334.66334 340.23445 342.45887 345.8256 348.87168 353.88169 356.66725 360.0039 362.22834 367.79945 373.37055 376.11604">&#x2018;o&#x2019; (or &#x2018;odd&#x2019;) string. </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="379.3 385.4222 390.99333 396.56443 399.69065 402.4762 408.0473 410.27174 412.49617 417.9871 425.22154 427.44596 433.01707 438.58818 441.67433 443.89875 446.12318 451.69429 457.26539 460.3816 465.3916 470.9627 476.5338 481.50376 487.07487 490.43159 493.12696">The following line converts</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="498.16"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-616.54" x="501.28 506.8511 509.07554 511.29997 514.4061 519.97726 525.50827 531.02926">all odd </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-605.02" x="81 86.57112 92.14224 97.71336 103.284488 108.29449 111.08005 113.30449 118.87561 121.62109 124.406658 129.97777 135.54889 138.24427 143.81539 149.3865 154.3965 159.96762 168.31429 173.8854 179.45653 182.24208 184.98755 190.55867 196.0897 201.66083 204.44638 210.0175 214.98741 220.55854 223.91522 228.92522 231.65065 237.22177 242.7929 248.36402 253.9652 256.66059 258.885 264.45613 267.24168 269.9771 275.54823 281.11933 283.90489 287.24156 292.81266 298.4038 303.9248 309.4959 312.28147 315.02696 318.36363 323.95478 332.30143 335.05693 340.62803 346.15907 351.73017 354.51573 357.2612 362.8323 365.61787 368.36335 373.93446 379.50556 382.2911 384.51554 390.08665 395.09666 397.8822 400.66777 406.23887 411.80998 417.32096 422.89207">pages in the document and every page in the range from 100 to the last page:</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-605.02" x="425.74"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-593.5" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="81 87 93 99 105 111 117">pdf2svg</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="123.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="129.02 135.02">--</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="141.02 147.02 153.02 159.02 165.02 171.02 177.02 183.02 189.02 195.02 201.02 207.02 213.02">pages odd,100</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="219.02">-</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="225.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="231.02 237.02 243.02 249.02 255.02 261.02003">in.pdf</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-582.76" x="267.02"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-570.7" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="81 86.57112 89.35668 94.9278 97.683307">3.3.8</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="117.02 124.25444 130.21634 138.24236 140.93773 147.05995 153.18218 155.96773 158.69316 161.47872 167.60094 173.17206 176.4486 182.01972">How do I batch</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="188.18">-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="191.54 197.06102 203.18325 209.30547 214.75635 220.32747 224.22525 227.58194 230.3675 233.70415 236.4897 239.22516 244.79628 250.3674">convert files?</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-547.12" x="256.46"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-532.72" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-521.2" x="81 87.68334 94.917789 101.04001 106.61113 113.29447 119.93774">PDF2SVG</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-521.2" x="127.76"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-521.2" x="130.52 135.53 141.02097 146.59209 152.16321 157.73433 161.11107 163.80644 168.81644 171.60199 177.17311 182.74423 185.52979 190.50972 196.08084 198.8664 203.87639 209.44751 215.03867 220.04866 225.53963 228.87628 233.92636 236.09069 241.6618 247.23293 250.01848 255.5896 258.29499 261.08055 269.39714 274.96824 280.53935 285.54936 288.29484 294.97819 302.21263 308.33485 311.1204 313.85585 316.08027 318.3047 323.8758 328.8858 331.67137 333.89579 339.4669 342.25245 347.82356 350.57905 355.58906 357.78343 363.35453 368.92564 371.15007 376.72117 379.4466 385.0177 390.5888 395.59883 400.60884 403.39439 406.14988 412.2721 417.8432 420.62876 425.58866 431.15977 436.6908 441.7008 447.2719 450.60859 453.39414 456.12959 461.70069 463.9251 466.14955 468.9351 475.56834 482.80278 488.925 491.71055 494.4961 496.69047 498.9149 504.486 509.51606 512.30166 514.52609 520.09719 522.83267 528.40377">supports batch conversion of many PDF files in a single pass. To convert all PDF files in a </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-509.68" x="81 86.57112 88.79556 93.805568 99.376689 104.94781 107.70331 110.48887 116.05999 118.28443 123.85555 129.42667 132.72324 136.0198 141.0298 144.36646 147.12195 152.13195 157.70307 163.27419 166.01966 171.02965 176.63083 182.20195 184.9875 190.48848 195.49848 201.0696 203.80506 206.5906 212.16173 217.73285 220.48834 223.2739 228.84502 231.06946 233.2939 238.86502 246.09946 248.3239 253.89502 259.46614 262.19157 267.20158 272.21159 277.78269 280.56825 286.13935 291.10929 293.89485">given folder(s) you can use the following syntax: </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-509.68" x="296.66"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-498.22" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-487.42" x="81 87 93 99 105 111 117">pdf2svg</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-487.42" x="123.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-487.42" x="129.02 135.02 141.02 147.02 153.02 159.02 165.02 171.02 177.02 183.02">myfolder1 </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-487.42" x="189.02"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-475.36" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="81 87.12222 92.693347 98.264469">The </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="101.04">&#x2018;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="103.26 106.619968">--</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="109.94 114.950008 120.521129 126.09225 128.83773 134.40885 136.63329 142.15431 147.72544 151.08213 156.09212 158.31656 161.10211 166.62314 172.19426 174.97982 177.20426 182.77538 188.3465 191.13205 196.08193 201.60295 207.17407 209.95963 215.53075 221.10187 223.88742 229.45854 234.41844 239.98957 245.56069 248.34624 251.10173 256.67286 259.4584 262.74497 268.31608 273.35615 278.87715 282.2138">subfolders&#x2019; option can be used to recurs</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="287.3 289.5244 294.50437 300.07548 302.2999 307.3099 310.04536 315.56636 318.86296 324.43406 329.47413 334.99513 340.00514 345.01515 347.8007 353.3718 355.59623 357.82066 360.5561 365.5661 371.1372 376.7083 379.4538 385.0249 387.24934 392.82044 398.39155 401.7282">ively process all subfolders</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-463.9" x="406.78 409.56556 412.301 418.42323 423.99433 427.331 430.11656 435.68766 440.6175 446.1886 454.53526 460.10636 462.33079 467.9019 470.68745 473.43293 476.21849 481.78959 487.3607 490.11619 492.90174 498.47285 500.69728 502.9217 508.4928 515.72726 517.95169 523.47268 529.04379">. For example, the following </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-452.38" x="81 83.22444 85.44888 91.020008 96.591129 99.376689 106.61113 108.83557 111.06001">line will</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-452.38" x="113.3"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-452.38" x="116.06 121.07 126.64112 132.21224 137.18215 142.75327 146.10996 148.89551 151.63097 157.20209 159.42653 161.65097 164.43653 170.00765 175.57877 180.54868 186.1198 194.40634 199.97747 205.54859 208.33414 213.34413 216.12969 218.35413 223.92525 226.7108 228.93524 237.24182 242.25182 244.97725 250.54837 252.77281 258.34394 263.91505 267.29179 272.86289 275.0873 277.87287 283.37385 288.94496 294.51606 297.3016 299.52604 307.87269 312.77247 315.558 321.12913 323.35356 328.92466 334.49577 337.83244 343.40354 345.62797 348.4135 353.9345 358.94453 361.73008 368.9645 374.5356 376.76005 378.98448 381.7099 387.281 392.32109 395.10664 400.67774 402.90217 405.1266 407.86204 412.87205 418.44316 424.01426 426.69963 432.27073 434.49516 440.06626 445.63737 448.97404">convert all documents in &#x2018;myfolder1&#x2019; and &#x2018;myfolder2&#x2019; as well as all subfolders</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-452.38" x="454.06">:</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-452.38" x="456.76"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-440.86" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-430.12" x="81 87 93 99 105 111 117">pdf2svg</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-430.12" x="123.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-430.12" x="129.02 135.02">--</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-430.12" x="141.02 147.02 153.02 159.02 165.02 171.02 177.02 183.02 189.02 195.02 201.02 207.02 213.02 219.02 225.02 231.02 237.02 243.02 249.02 255.02 261.02003 267.02003 273.02003 279.02003 285.02003 291.02003 297.02003 303.02003 309.02003 315.02003">subfolders myfolder1 myfolder2</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-430.12" x="321.02"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-418.06" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="81 87.68334 92.64324 96.11016 101.68128 107.2524 110.037967 115.609088 121.18021 123.40465 126.19021 128.92568">By default, </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="132.44 139.1534 146.38784 152.51006 158.10121 164.78455 171.41779">PDF2SVG</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="179.24"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="182.66 189.89444 192.11888 194.34333 196.56777 200.05472 205.06472 210.6659 216.23702 221.24701 226.74799 230.08464 232.8702 236.33712 241.90824 244.13268 246.35712 249.82404 252.60959 254.83403 257.0284 262.59953 267.6396 271.1065 278.34095 280.56538 283.35093 288.92204">will convert all files with </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="292.46 295.24555 300.81666 306.38777">the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="309.8 315.32099 320.331 323.05644 328.62754 334.19865 339.24873 341.47315 347.04426 352.61537 356.1023 358.32673 361.11228 366.68339">extension &#x2018;.pd</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-406.54" x="372.28 374.97538 377.1998 379.98536 383.4222 389.54444 395.11555 398.59248 403.60249 409.20365 411.42808 416.93907 421.94908 424.73463 428.21156 433.78266 436.00709 438.79264 441.52809 447.09919 450.4559 456.027 461.5981 464.38368 467.8506 470.63615 472.86058 475.05494 480.62605 485.6661 489.13304 494.65403 500.22514 505.2652 510.7862 516.3573 519.8343 525.4054 530.9364">f&#x2019;. To select different files based on </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="81 83.78556 89.35668 94.9278 99.34663 104.91775 109.92775 112.66321 118.23433 123.80545 128.85553 131.01985 136.59098 142.12201 146.55084 152.12197 157.16202 162.68305">the extension use </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="167.18 169.96555 175.53667 181.10779 185.5266">the &#x2018;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="187.7 191.05995">--</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="194.42 199.94103 204.95102 207.67646 213.24758 218.8187 223.86878 226.09322 231.66434">extension</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="237.26">&#x2019;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="239.48"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-395.08" x="243.86 249.43112 254.96216 258.25877 263.82987 272.1765 277.74763 280.53318 286.10429 289.44096 292.2265 296.64533 302.70744 308.27854 311.63526 316.00398 321.57508 326.58509 332.1562 340.50285 346.07395 348.29838 353.86949 356.62498 361.0538 363.83937 369.41047 373.75914 378.76914 384.3703 389.9414 394.95143 400.4524 403.78907 406.57463 411.00346 416.57456 418.79899 421.0234 425.45225 432.05543 439.28987 445.41209 449.86097 455.38197 460.95307 465.96308 471.53419 479.88084 485.45195 490.96293 493.74848 498.75849 503.19734 510.43177 512.6562 515.4418 521.0129 525.39169 530.91268">parameter. For example, to convert all PDF documents with a </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-383.56" x="81 86.01 91.58112 96.591129 99.376689 104.94781 113.294467 116.03995 121.61107 126.62107 129.35654 134.92766 140.4587 145.46869 147.69313 153.28429 158.85541 161.64096 163.8654 166.60086 172.17198 174.39643 179.91745 185.48857">custom extension &#x2018;.blob&#x2019;</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-383.56" x="187.76">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-383.56" x="190.52"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-383.56" x="193.28 198.29 203.86112 209.43224 212.1777 217.1877 222.75882 228.32994 230.55438 236.1255 238.881 244.40203 249.41202 255.0132 257.7086 260.49415 266.06526 271.63636 274.39186 277.1774 282.7485 284.97294 287.19737 292.76847 300.0029 302.22734 307.74833 313.31944 316.10499 318.3294 320.55384 326.12495 331.69606 334.45155">you could use the following line: </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-383.56" x="337.24"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-372.02" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="81 87 93 99 105 111 117">pdf2svg</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="123.02"> </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="129.02 135.02">--</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="141.02 147.02 153.02 159.02 165.02 171.02 177.02 183.02 189.02 195.02 201.02 207.02 213.02 219.02 225.02 231.02">extension .blob </tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="237.02 243.02">--</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="249.02 255.02 261.02003 267.02003 273.02003 279.02003 285.02003 291.02003 297.02003 303.02003 309.02003 315.02003 321.02003 327.02003 333.02003 339.02003 345.02003 351.02003 357.02003 363.02003">subfolders myfolder1</tspan></text>
+<text fill="#003366" xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Courier New"><tspan y="-361.28" x="369.04"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-349.22" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="81 86.57112 89.35668 94.9278 97.683307">3.3.9</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="103.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="117.02 124.25444 130.21634">How</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="138.26"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="140.96 146.48104 152.05216 158.17438 160.95993 163.7054 166.49095 172.06208 178.1843 184.10613 192.13214 194.9177 201.03992 203.77538 209.83748 215.4086 218.19416 223.76528 227.66306 233.71514 239.83736 242.62291 251.47057 257.0417 260.93946 266.51057 272.08168 274.86723 280.98945 284.8872 287.67277 290.9493 297.07154 302.64265 305.4282 308.76487 312.66264 315.44819 324.30586 327.0914 330.98918 336.56028 342.6825 345.42799 351.49009 357.6123">can I show/hide crop marks or the trim region?</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial,Bold" font-weight="bold"><tspan y="-325.64" x="363.76"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-311.18" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-299.72" x="81 87.66004">A </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-299.72" x="92.7 99.38334 106.61778 112.740009 117.77005 123.34117 128.9123 134.48342 140.05454 145.06453 150.07453 155.6757 161.24683 166.28688 171.858 177.42913 180.21468 182.43912 187.95012 193.52124 198.5613 204.13242 209.17247 214.2025 222.54917 228.06017 233.63129 238.64128 243.65128 249.2224 254.26245 259.23237 262.0179 264.24235 269.19224 274.76335 279.80339 284.8134 290.41456 295.98567 301.5167 304.85337 310.44453 313.23008 318.721 323.75105 329.32215 334.89326 340.46437 346.06553 351.58653 357.15763 360.51435 362.73878 368.24977 373.25978 378.25975 381.0453 386.6164 391.62638 396.63639 402.23756 407.80867 410.5942 413.88078 419.45188 421.6763 426.70634 431.71635 437.28746 440.6241 442.84855 448.41966 453.95069 458.9607 464.02079 469.5919 474.6019 480.173 485.684 490.694 493.47956 498.48957 503.48954 509.06065 511.8462 516.8562 519.6418 525.2129 530.784">PDF page can define as many as five separate boundaries to control various aspects of the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-288.2" x="81 83.22444 91.571109 97.14223 102.71335 104.93779 110.50891 116.08003 118.86559 124.376598 127.71326 133.28438 138.23426 143.80538 148.81537 153.82537">imaging process:</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-288.2" x="156.62"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-276.68" x="81"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma751">
+<g transform="matrix(.6666667,0,0,.66667506,99,518.7499)">
+<use xlink:href="#im752" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<symbol id="im752" viewBox="0 0 12 12">
+<image width="12" height="12" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAAAAABzHgM7AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAFklEQVR4nGNkQAKMeDn/YSyqcIiwFADnfQYNNgQEKAAAAABJRU5E
+rkJggg=="/>
+</symbol>
+<g mask="url(#ma751)">
+<g transform="matrix(.6666667,0,0,.66667506,99,518.7499)">
+<symbol id="im753" viewBox="0 0 12 12">
+<image width="12" height="12" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAH0lEQVR4nGNkYGD4z0ACYKSzhplnsKtKNxnVMMgiDgCq8BgBAEw2
+KgAAAABJRU5ErkJggg=="/>
+</symbol>
+<use xlink:href="#im753" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-265.22" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-265.22" x="117.02 123.14222 128.71334 134.28446 138.31249 146.65915 152.17015 157.74127 159.96572 165.53684 169.56487 175.08589 180.65702 185.667 189.65496 195.22608 200.7972 203.58275 205.80719 211.37831 216.89934 221.90933 225.94739 228.73294 234.2239 239.79503 243.81305 249.38417 254.95529 260.49635 266.06745 271.63856 277.1796 280.51628 282.7407 288.28175 293.29176 297.26969 302.8408 305.62635 309.62434 312.40989 317.981 323.5521 327.55009 333.1212 338.6923 343.7023 348.7123 350.88664 355.89665 361.4978 363.72224 367.73023 376.07688 381.58787 387.15898 389.3834 394.9545 403.30116 407.25904 412.83015 418.40126 422.4293 429.63368 435.20478 437.4292 442.4392 448.0103 452.0083 454.79386 460.36497 465.86595 469.87394 475.44505 481.01615 486.58726 492.18843 496.1964 498.36073 503.37074 507.40879 510.19435 515.76547 519.7634 525.2844 530.8555">The media box defines the boundaries of the physical medium on which the page is to be </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.7" x="117.02 122.59112 125.94782 128.17226 133.74338 136.52893 142.10005 147.67118 150.45673">printed. </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-253.7" x="154.46 157.24556 159.98102 163.98902 172.33568 177.84668 182.85668 186.83461 189.05905 194.63018 199.6602 201.88465 207.45577 212.97679 218.54792 222.56594 228.08696 233.65808 238.66808 242.65602 248.22714 253.23714 255.97261 261.54374 267.11485 272.68595 278.2871 283.8081 287.8161 293.3371 296.6337 302.2048 307.7759 311.74385 316.75386 322.355 325.6516 328.98829 334.57945 340.10044 345.67155 351.24266 353.41697 358.98808 364.55918 368.58723 371.37278 376.94389 382.51499 386.51298 389.29853 391.52296 397.09407 399.2283 404.2383 409.80943 415.38053 420.95164 424.95964 430.53074 436.06178 441.63288 447.20399 451.23204 454.01759 459.5085 462.84519 466.82313 472.39424 474.61866 480.18977 485.76087 491.35203 494.13758 498.12553 503.6465 506.9832 509.2076 514.77877 517.56436 519.78878 525.30978 530.83078">It may include any extended area surrounding the finished page for bleed, printing </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-242.24" x="117.02 125.36665 130.93778 134.24437 139.25437 144.31446 147.00983 150.59699 156.1681 159.50476 163.07187 168.64299 171.42855 176.92952 182.50064 185.85733 189.38437 194.39437 199.96549 204.97548 210.50652 214.09368 219.6648 225.19583 228.53249 234.1036 239.67473 244.68473 250.21576 255.22576 258.01133 261.6085 264.39405 267.1295 270.71665 279.0633 284.6344 289.55424 293.08128 298.65238 300.8768 305.90687 311.42787 315.015 317.23945 322.75044 327.76045 329.98487 335.57603 341.09703 346.66813 350.20518 355.77629 359.133 364.7041 370.23515 375.24516 378.80226 383.81227 386.00663 391.57774 396.58775 402.15885 405.73597 408.43135 414.00245 417.5996 420.38517 425.95628 431.45726 435.0444 440.6155 446.14656 451.71766 457.2487 462.2587 465.8158 471.3869 474.17247 477.74958 480.53514 486.10624 491.67735 495.2645 503.54103 509.11213 514.6832 516.90768 522.43869 530.78536">marks, or other such purposes. It may also include areas close to the edges of the medium </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-230.72" x="117.02 119.80556 125.37668 130.9478 133.7033 137.77141 142.7814 148.38259 153.9537 159.48474 165.05587 167.84142 171.8995 177.47063 183.04175 187.1299 195.47657 201.04769 204.35428 209.36428 214.96546 220.53658 224.61472 230.13574 235.65677 240.66677 246.26795 251.78897 256.79899 262.40016 266.46827 272.03938 274.82493 278.88304 284.45414 290.02525 294.96513 299.97514 302.19956 307.20957 312.78068 315.0051 319.0732 321.29765 323.52207 331.8687 334.09315 336.82859 342.3997 345.18525 347.40968 352.98078 358.55189 363.5619 367.66007 373.23118 376.01673 380.07484 382.86039 388.4315 394.0026 398.0607 403.6318 409.2029 411.91835 417.48945 423.06056 425.8461 429.9042 435.4753 441.04643 446.05644 448.28086 453.29087 458.86198 461.64753 465.71565 472.92 478.49113 484.06224 486.84779 492.41889 497.99">that cannot be marked because of physical limitations of the output device. Content</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-230.72" x="500.92"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-230.72" x="505 507.78556 513.3567 515.5811 517.80557 520.02999 525.52096 531.04196">falling </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-219.2" x="117.02 122.59112 128.16223 130.94779 135.95778 138.18222 143.72328 149.2944 152.07996 154.82543 160.39655 162.62099 167.65102 170.43657 175.92754 181.49866 187.06978 192.6409 198.21202 203.78314 207.1198 212.12979 214.86525 219.87525 225.44637 231.01749 233.76296 238.77295 244.37413 247.15969 252.7308 254.95525 259.91514 262.70069 268.2718 273.8429 276.5984 282.1695 284.3338 289.3438 294.35383 299.92494 303.28166 308.85276 314.3838 319.9549 322.74046 329.97489 332.1993 334.98487 340.55598 346.06697 351.63807 354.4236 357.1691 362.7402 365.52577 368.27125 373.84236 378.88243 381.66798 383.8924 389.4635 395.0346 397.7801 400.56565 406.13676 411.70787 414.46336 422.81 428.3811 433.9522 439.52333 441.74775 447.27879 452.84989 455.63545 461.20655 463.96205 466.7476 469.48304 475.05415 480.62525 483.4108 490.0641 497.29853 503.42076 506.2063 508.99186 511.18623 513.41067 518.98178">outside this boundary can safely be discarded without affecting the meaning of the PDF file.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-219.2" x="521.8"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma754">
+<g transform="matrix(.6666667,0,0,.6625,99,576.25)">
+<use xlink:href="#im752" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma754)">
+<g transform="matrix(.6666667,0,0,.6625,99,576.25)">
+<use xlink:href="#im753" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-207.74" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-207.74" x="117.02 123.14222 128.71334 134.28446 137.11009 142.12009 145.45674 151.02787 156.59899 159.48474 165.00577 170.57689 175.58689 178.37244 183.94356 189.53472 192.32027 194.54471 200.11583 205.6168 210.6268 213.52257 216.30812 221.87924 227.45037 230.23592 233.61266 239.13368 244.7048 246.92925 252.50037 258.07148 260.96726 263.7528 269.3239 272.10948 279.37397 284.94508 287.10939 292.1194 297.6905 300.53617 303.32173 308.89283 314.46394 317.32966 322.33967 327.91078 333.48188 336.22737 341.79847 347.36958 350.085 355.095 357.93067 363.50178 366.28733 369.143 371.92857 377.49967 383.07078 385.9365 391.5076 397.03865 402.60975 408.18086 411.00648 416.52748 419.86415 425.4553 428.321 431.10658 436.67768 439.46324 445.03434 450.6355 453.4411 458.4511 460.67555 462.89997 468.47108 474.04219 479.61329 485.1844 488.0501 491.3467 496.35673 499.6934 505.2645 510.8356 516.36666 521.93777 527.46878 530.8054">The crop box defines the region to which the contents of the page are to be clipped (cropped) </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-196.22" x="117.02 124.25444 129.8456 135.36663 140.93775 144.65515 150.22628 152.45072 157.46071 163.03183 165.25627 170.8274 175.73719 181.3083 186.87943 190.60686 196.17798 199.53467 203.24207 208.76309 212.09975 214.32419 219.89531 222.68087 228.25199 233.8231 236.53852 240.24591 247.48035 253.0715 255.29595 257.5204 262.49034 268.06144 271.77885 274.5644 280.1355 285.7066 289.404 294.9751 297.68049 303.2516 308.8227 312.18943 315.89683 321.41783 326.98893 331.99894 337.57005 342.58006 345.3656 349.063 351.84855 357.33949 362.91059 366.628 371.638 374.97468 380.54579 386.11689">when displayed or printed. Unlike the other boxes, the crop </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-196.22" x="390.04 395.6111 401.18223 406.19224 409.88963 415.4106 420.98173 426.0218 429.7292 435.3003 440.8714 444.53874 450.10984 455.68095 458.4665 460.69093 466.26203 471.78303 477.35414 481.07154 489.41819 494.9893 500.5604 506.1315 508.31587 513.88699 519.45809 523.18557 525.41 530.9811">box has no defined meaning in </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-184.7" x="117.02 119.80556 125.37668 128.71334 137.06 142.06999 146.40865 151.97977 154.76532 159.114 164.63503 170.20615 175.21614 180.22614 182.45058 187.46057 193.0317 195.25614 199.60482 205.12584 210.69696 216.26808 221.80915 226.17786 231.69889 237.27 242.84113 251.18779 256.7589 259.54447 262.88114 267.89115 272.18974 277.76084 281.0975 285.43617 287.66059 293.2317 296.01725 301.58836 307.15946 312.73057 318.25157 323.82267 328.2014 333.72239 338.7324 344.33357 347.02894 351.39765 353.62208 356.40763 360.74629 369.09294 374.66404 377.97065 383.54176 385.76618 390.77619 395.12486 397.34928 405.6258 411.1969 416.768 421.778 427.34913 432.32908 436.69779 441.7078 443.93223 446.11659 451.68769 457.2588 459.48323 465.01426 470.58537 474.96409 480.5352 486.06623 490.43495 493.2205 498.7916 504.3627 508.6613 514.2324 519.8035 525.34457 530.86557">terms of physical page geometry or intended use; it merely imposes clipping on the page </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-173.24" x="117.02 122.03 127.63118 133.2023 135.98786 141.48883 147.05995 149.8455 154.8555 157.64105 160.38652 166.50875 172.07987 177.6109 180.39646 185.96758 191.5387 194.29419 199.86531 205.43643 207.66088 210.44643 213.1919 218.20189 223.77301 225.99745 231.56858 237.06955 239.8551 242.07955 247.08954 249.87509 252.61055 258.18168 263.75279 266.53834 272.10945 277.68055 283.25166 288.82276 291.0071 296.01713 298.74256 307.0892 312.6603 318.2314 320.45585 326.02696 328.8125 334.3836 339.9547 344.96473">contents. The default value is the page&#x2019;s media box.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-173.24" x="347.74"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma755">
+<g transform="matrix(.6666667,0,0,.66667506,99,622.2499)">
+<use xlink:href="#im752" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma755)">
+<g transform="matrix(.6666667,0,0,.66667506,99,622.2499)">
+<use xlink:href="#im753" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-161.72" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-161.72" x="117.02 123.14222 128.71334 134.28446 137.77141 143.34253 145.56697 151.13809 156.66913 162.24025 165.71718 171.2883 176.81934 181.82933 185.26619 190.83731 196.40843 199.19399 201.41843 206.98955 212.56067 217.60073 221.06764 223.8532 229.42432 234.9253 238.39221 241.72887 247.32003 252.89115 255.11559 260.6867 266.2578 269.7548 272.54035 278.11146 281.5082 288.74266 294.31376 296.53819 301.5482 307.1193 310.59623 313.38179 318.95289 324.524 327.9909 333.00093 338.57203 344.14314 346.8886 352.4096 357.9807 360.76628 365.77629 369.2632 374.83433 377.61988 381.07676 383.8623 389.4334 395.00453 398.47145 404.04255 409.57359 415.14469 420.7158 424.20274 429.21275 434.78385 440.35496 445.92607 448.15049 453.7216 457.1885 462.7095 468.2305 471.69743 476.70744 478.93186 481.15629 486.7274 492.32856 497.84956 503.42066">The bleed box defines the region to which the contents of the page should be clipped </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-161.72" x="507.1 514.3345 519.9056 525.39657 531.0278">when </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-150.2" x="117.02 122.59112 128.16223 130.94779 136.5189 142.09003 144.87558 150.54689 152.77133 158.34246 164.03382 169.60494 175.3063 180.87743 184.23412 189.80524 195.33628 200.9074 205.94745 208.733 210.95745 216.44841 222.01953 227.7209 233.24193 238.81305 243.82305 246.04749 249.38414 254.95526 260.52638 268.8229 274.394 279.96513 282.75068 285.50617 291.1975 297.31974 302.89085 305.11528 310.14533 315.83668 324.18333 329.75444 334.76445 340.42573 342.65016 348.16114 353.17115 355.39558 360.98674 366.50773 372.07884 377.7802 383.35133 388.92243 393.93244 399.61378 405.13478 410.14479 412.8702 416.20689 421.79804 427.48939 433.0605 435.2849 440.85603 446.42713 452.01829 457.70964 463.23063 466.5673 472.15846 477.72956 483.43095 489.00205 494.53309 500.1042 505.6753 511.21635 516.7875 522.4889 525.2745 530.8456">output in a production environment. This may include any extra bleed area needed to </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-138.74" x="117.02 122.59112 127.60112 132.61112 138.18224 146.5289 154.81545 160.38657 165.95769 171.52881 174.25424 179.82537 182.76122 185.54677 191.11789 196.68901 199.55472 205.12584 210.69696 215.70696 220.71695 222.8913 227.90129 233.47241 235.69686 238.60265 240.82709 243.05153 251.3982 253.62264 256.3581 261.9292 264.71476 266.93919 272.51029 278.0814 283.06135 285.98719 291.5583 294.26368 297.1895 302.19953 307.8007 310.58625 313.3217 315.5461 321.11723 326.68833 329.47389 332.38969 335.17524 340.74635 342.8906 348.4617 350.626 356.1971 361.76823 364.55378 367.4796 373.05073 378.58177 384.15287 387.0887 389.87428 393.21095 395.43537 403.71189 412.05854 414.28297 419.85408 425.42518 428.36103 433.88203 439.45314 445.02424 447.24867 452.81977 461.12635 466.69746 472.26856 475.0541 477.8096 480.73545 486.85768 492.42878 497.99989 500.88563 506.45674 512.02786 514.8134 520.3244 525.8955 528.11996 530.9055">accommodate the physical limitations of cutting, folding, and trimming equipment. The default </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-127.22" x="117.02 122.03 127.60112 129.82556 135.39669 140.9678 143.7233 145.94774 150.95774 153.74329 156.52884 162.09996 167.67108 170.42658 175.9476 181.51873 187.08985 192.66097 194.84532 199.85532 202.64087 207.6709 210.96747 216.53859 222.10971 224.89527 230.46639 235.98741 240.9974">value is the page&#x2019;s crop box.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-127.22" x="243.8"> </tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<mask id="ma756">
+<g transform="matrix(.6666667,0,0,.6625,99,668.3)">
+<use xlink:href="#im752" x="0" y="0" width="12" height="12"/>
+</g>
+</mask>
+<g mask="url(#ma756)">
+<g transform="matrix(.6666667,0,0,.6625,99,668.3)">
+<use xlink:href="#im753" x="0" y="0" width="12" height="12"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-115.7" x="106.98"> </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-115.7" x="117.02 123.14222 128.71334 134.28446 137.83153 140.61708 143.95374 146.17818 154.52484 158.04186 163.61298 169.1841 174.19409 177.65099 183.2221 188.79323 191.57878 193.80323 199.37435 204.89537 209.90537 213.46247 216.24802 221.81914 227.39026 230.9173 233.14174 238.65274 241.4383 247.00942 252.58054 258.15165 263.72276 269.29386 272.8409 278.41203 280.57633 288.92298 294.49409 300.01509 305.0251 307.2495 312.84068">The trim box defines the intended dimension</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-115.7" x="318.44 323.45 327.0071 332.57823 335.36378 338.88078 341.66633 347.23744 352.80854 356.33558 359.12113 361.34556 366.91667 369.14109 374.1511 379.6721 385.2432 390.8143 394.36137 399.93247 405.4635 411.0346 416.6057 420.09266 425.66377 428.4493 431.1948 436.7659 440.12263 443.64967 446.4352 449.77189 451.9963 460.34297 468.6896 470.91404 476.40498 481.97608 484.76164 488.27864 491.06419 493.79963 497.32667 505.6733 511.24443 516.2544 519.7614 525.3325 530.9036">s of the finished page after trimming. It may be </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-104.24" x="117.02 122.03 130.37667 135.96782 138.19226 140.4167 145.9277 149.26436 155.81743 158.60298 164.1741 169.67508 175.1961 181.72914 184.5147 190.08582 195.65694 202.17995 210.52661 216.09774 221.66886 223.8432 229.41432 235.89727 241.46839 247.0395 252.0495 258.5625 261.34806 266.91917 273.43217 279.00328 281.2277 283.45213 288.9731 296.1775 302.7105 305.49607 311.06718 314.40385 320.93687 326.45787 329.79454 335.38569 340.90669 346.47779 351.51786 354.3034 356.43766 362.00877 367.57987 374.12294 377.41954 382.99064 385.21507 390.78617 393.57173 399.14283 404.71394 411.18684 416.19685 421.76795 427.33906 430.08454 435.65565 441.22676 444.0123 446.7678 453.3008 458.31083 463.88194 468.89195 474.42298 480.956 486.5271 491.56718 498.04008 503.61119 506.9679 509.19233 514.7634 517.549 519.77346 525.2644 530.8355">smaller than the media box to allow for production related content, such as printing </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-92.7" x="117.02 119.24444 124.81556 129.8456 132.63115 135.9678 141.48883 146.49883 149.28438 151.50882 157.07994 162.61098 167.62097 170.40653 173.19208 178.15198 183.7231 186.50865 189.25412 197.60079 203.1719 206.50856 211.51856 216.52855 219.3141 222.09966 227.67078 231.00743 233.71283 238.72283 244.29395 246.51839 252.08951 255.42617 258.21174 263.78285 269.29383 272.59043 277.60044 280.386 283.17155 289.29377 294.86488 300.43598 303.19148 308.76258 314.33369 317.11924 322.69035 328.26145 330.48588 333.27143 336.00688 341.01689 346.58799 348.8124 354.30335 359.87446 362.66 364.88444 369.89445 372.68 375.42549 380.99659 386.5677 389.35325 394.92436 400.49546 406.0265 411.5976 413.7619 418.7719 421.55747 426.56748 429.90415 435.47526 441.04637 443.8319 449.403 454.97413 459.98414">instructions, cut marks, or color bars. The default value is the page&#x2019;s crop box.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="10.02" font-family="Arial"><tspan y="-92.7" x="462.7"> </tspan></text>
+</g>
+</g>
+</g>
+</svg>
