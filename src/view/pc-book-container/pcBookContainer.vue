@@ -1,8 +1,6 @@
 <template>
   <div class="container" :style="container">
-    <div class="button-test">
-      <button @click="test">测试</button>
-    </div>
+
     <div
       class="shadow"
       :style="bookShadow(curPage, maxPage)"
@@ -44,15 +42,15 @@
         <span></span>
       </div>
       <div class="back" v-show="curPage !== '0' && isShowOptionButton">
-        <button @click="previousPage(false)">上一页</button>
-        <button @click="homePage">第一页</button>
+        <img :src="leftPage" @click="previousPage(false)">
+        <img :src="first" @click="homePage">
       </div>
       <div
         class="forward"
         v-show="curPage !== maxPage + '' && isShowOptionButton"
       >
-        <button @click="nextPage(false)">下一页</button>
-        <button @click="lastPage">最后一页</button>
+       <img :src="rightPage" @click="nextPage(false)">
+        <img :src="last" @click="lastPage">
       </div>
       
       <book
@@ -67,6 +65,9 @@
       </book>
       
     </div>
+    <div class="page-box" v-show="!animationPending&&!coverToBack">
+          {{Number(curPage.split('-')[0])+1}} / {{maxPage+1}}
+      </div>
   </div>
 </template>
 
@@ -74,9 +75,13 @@
 import book from "@/components/book/book.vue";
 import { mockData } from "./mock";
 import { mapMutations, mapGetters } from "vuex";
-import { getEmptyPage, throttle } from "@/share/utils";
+import { getEmptyPage, throttle,transend,transPocket,isPc } from "@/share/utils";
+import first from '@/assets/icon/first.svg'
+import last from '@/assets/icon/last.svg'
+import leftPage from '@/assets/icon/leftPage.svg'
+import rightPage from '@/assets/icon/rightPage.svg'
+import {Single_Page} from '@/share/utils'
 
-let animationPending = false;
 let moveEnd = false
 let isMove = false
  let targetPage = ''
@@ -90,7 +95,12 @@ export default {
       curPage: "0",
       showComs: [],
       isShowOptionButton: true,
-      coverToBack:false
+      coverToBack:false,
+      first:first,
+      last:last,
+      leftPage:leftPage,
+      rightPage:rightPage,
+      animationPending:false
     };
   },
   watch: {
@@ -108,16 +118,40 @@ export default {
     });
   },
   created() {
-
-     
+     this.$eventBus.addEventListener('startJump',this.goToPage)
   },
   methods: {
     ...mapMutations("pcBook.store", ["setBookContainer"]),
-    test(){
-      this.resetBook(this.curPage,targetPage = '3-4',()=>{
-         this.nextPage()
-      })
-    },
+    goToPage(page,mode){
+      const numberPage = Number(page)
+      if(numberPage<1||numberPage>mockData.pageCount) return
+      if(mode == Single_Page) {
+          this.handlerSinglePage(page)
+      }else{
+          this.handelDoublePage(page)
+        }
+      },
+      handlerSinglePage(page){
+        if(page == '1' || page== this.maxPage+1+''){
+          this.handelDoublePage(page=='1'?'0':this.maxPage+'')
+        }else{
+          const numberPage = Number(page)
+          const isOddNumber = numberPage%2==1
+          if(isOddNumber){
+            this.handelDoublePage(`${numberPage-1}-${numberPage}`)
+          }else{
+            this.handelDoublePage(`${numberPage}-${numberPage+1}`)
+          }
+        }
+      },
+      handelDoublePage(page){
+         const oldValue = Number(this.curPage.split('-')[0])
+        targetPage = page
+        const newValue = Number(targetPage.split('-')[0])
+        this.resetBook(this.curPage,targetPage,()=>{
+          oldValue>newValue?this.previousPage():this.nextPage()
+        })
+      },
     homePage(){
        this.resetBook(this.curPage,targetPage = '0',()=>{
          this.previousPage()
@@ -130,8 +164,8 @@ export default {
       })
     },
     move(type) {
-       if (animationPending) return;
-      animationPending = true;
+       if (this.animationPending) return;
+      this.animationPending = true;
       const client = this.$refs.bookContainer.getBoundingClientRect();
       let angle = 0;
       let {page1,page2} = this.getPage(type)
@@ -218,19 +252,20 @@ export default {
         page2.style.transform = `rotateY(0deg)`;
         }
         
-       const listener = () => {
+       const handler = () => {
          page1.removeEventListener("transitionend", listener);
-        isMove = false
-        animationPending = false
-        moveEnd = false
-        
+          isMove = false
+          this.animationPending = false
+          moveEnd = false
         };
-        page1.addEventListener("transitionend", listener);
+        const listener = transend(handler);
+       page1.addEventListener("transitionend", listener);
+       transPocket(300,0,handler)
       }
     },
     nextPage(next) {
-      if (animationPending&&!next)return
-      animationPending = true;
+      if (this.animationPending&&!next)return
+      this.animationPending = true;
       if (this.curPage === "0") {
         this.openCover();
       } else {
@@ -244,8 +279,8 @@ export default {
       }
     },
     previousPage(next) {
-      if (animationPending&&!next) return;
-      animationPending = true;
+      if (this.animationPending&&!next) return;
+      this.animationPending = true;
       const pages = this.curPage.split("-");
       const isBottoming = Number(pages[0]) == this.maxPage;
       if (isBottoming) {
@@ -262,7 +297,7 @@ export default {
     bookInit() {
       
       this.showComs = this.factory();
-      animationPending = false;
+      this.animationPending = false;
       isMove = false
       moveEnd = false 
       targetPage=''
@@ -292,16 +327,20 @@ export default {
       }
       return showComs;
     },
-    resetBook(curPage,targetPage,callback){
-      if(curPage==targetPage|| animationPending) return
+    resetBook(curPage,curTargetPage,callback){
+
+      if(curPage==curTargetPage|| this.animationPending) {
+        targetPage = ''
+        return
+      }
       const curPageList = curPage.split('-');
-      const targetPageList = targetPage.split('-');
+      const targetPageList = curTargetPage.split('-');
       const target1 = Number(targetPageList[0])
       const target2 = Number(targetPageList[1])
       const isForward = Number(curPageList[0])>Number(targetPageList[0])
       const showComs = JSON.parse(JSON.stringify(this.showComs))
       const targetPage1 = this.pageData[target1] 
-        const targetPage2 = this.pageData[target2]
+      const targetPage2 = this.pageData[target2]
       if(isForward){
        this.resetPreviousPage(target1,showComs,targetPage1,targetPage2)
       }else{
@@ -455,13 +494,15 @@ export default {
       page2.style.transform = `rotateY(180deg)`;
       page2.style.transition = `transform 1s ease 0s`;
       page2.style["transform-origin"] = `100% 0`;
-      const listener = () => {
+      const handler = () => {
         page1.style.transition = `transform 0.3s ease 0s`;
         page2.style.transition = `transform 0.3s ease 0s`;
         callback();
         page1.removeEventListener("transitionend", listener);
       };
+      const listener = transend(handler);
       page1.addEventListener("transitionend", listener);
+      transPocket(1000,0,handler)
     },
     rightTurn(callback) {
       const bookItems = document.getElementsByClassName("book-item");
@@ -474,13 +515,15 @@ export default {
       page2.style.transform = `rotateY(0)`;
       page2.style.transition = `transform 1s ease 0s`;
       page2.style["transform-origin"] = `100% 0`;
-      const listener = () => {
+      const handler = () => {
         // page1.style.transition = `transform 0.3s ease 0s`;
         // page2.style.transition = `transform 0.3s ease 0s`;
         callback();
         page1.removeEventListener("transitionend", listener);
       };
+      const listener = transend(handler);
       page1.addEventListener("transitionend", listener);
+       transPocket(1000,0,handler)
     },
     nextPageAnimation() {
       this.rightTurn(() => {
@@ -517,5 +560,5 @@ export default {
 </script>
 
 <style lang="less" scope>
-@import "./bookContainer.less";
+@import "./pcBookContainer.less";
 </style>

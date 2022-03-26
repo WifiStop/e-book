@@ -1,6 +1,6 @@
 
 import VueRouter from 'vue-router'
-import BookContainer from '@/view/book-container/bookContainer.vue'
+import BookContainer from '@/view/book-containers/bookContainer.vue'
 
 Vue.use(VueRouter)
 

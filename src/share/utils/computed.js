@@ -1,3 +1,4 @@
+import {isPc} from './util'
 const computerScale = ()=>{
     let isFirst = true;
     return (imgElement,callback)=>{
@@ -25,12 +26,30 @@ const computerImageShowSize = (state,callback)=>{
     checkLimit(state,callback)
     callback(state.book)
 }
+const computerImageMdShowSize = (state,callback)=>{
+    let {bookContainer,scale} = state
+    if(!scale) return
+    const width = bookContainer.width + 1
+    state.book = {
+        width,
+        height:Math.ceil(width / scale)
+    }
+    checkLimit(state,callback)
+    callback(state.book)
+}
 
+const computerShowSize = (state,callback)=>{
+    if(isPc()){
+        computerImageShowSize(state,callback)  
+    }else{
+        computerImageMdShowSize(state,callback)
+    }
+}
 const checkLimit = (state,callback)=>{
     const {bookContainer,book} = state
     if(book.height > bookContainer.maxHeight){
         bookContainer.width = bookContainer.width - 20
-        computerImageShowSize(state,callback)
+        computerShowSize(state,callback)
     }
 }
 const getScale = computerScale()
@@ -52,7 +71,7 @@ const getBookContainerSize = (state)=>{
 }
 export {
     getScale,
-    computerImageShowSize,
     getBookSize,
-    getBookContainerSize
+    getBookContainerSize,
+    computerShowSize
 }

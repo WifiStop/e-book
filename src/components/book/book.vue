@@ -1,9 +1,6 @@
 <template>
-  <div class="main" >
+  <div class="main" :style="[bookSize]">
     <div class="container" >
-      <!-- <img :src="newSvg" class="img-container" ref="img" @load="imgLoad"  v-if="newSvg" >
-        <img class="img-container" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" v-else> -->
-
       <div class="test" :style="[bookSize,imgBack]">
         <img :src="newSvg" class="img-container" ref="img" @load="imgLoad"  v-if="newSvg" :style="bookSize">
         <img class="img-container" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" v-else>

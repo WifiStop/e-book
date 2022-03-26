@@ -13,7 +13,6 @@ files.keys().forEach(path => {
     ...module
   }
 })
-console.log(modules)
 const store = new Vuex.Store({
   modules,
     state: {

@@ -1,4 +1,4 @@
-import {computerImageShowSize,getBookSize,getBookContainerSize} from '@/share/utils'
+import {computerShowSize,getBookSize,getBookContainerSize,getMaxSize} from '@/share/utils'
 const SHOW_ONCE_PAGE_WIDTH = 1000
 
 const pcBookModule = {
@@ -14,27 +14,29 @@ const pcBookModule = {
         book:{
             width:1,
             height:1,
-        }
-
+        },
+        fired:null
 
     }),
     mutations: {
+        setFired(state,value){
+            state.fired = value
+        },
         setScale(state,value){
             state.scale = value.scale
-            computerImageShowSize(JSON.parse(JSON.stringify(state)),this.commit.bind(this,'pcBook.store/setBook'))
+            computerShowSize(JSON.parse(JSON.stringify(state)),this.commit.bind(this,'pcBook.store/setBook'))
         },
         setIsShowOncePage(state,value){
             state.isShowOncePage = value
         },
         setBookContainer(state){
-            const curWidth = document.body.clientWidth 
-            const curHeight = document.body.clientHeight
+            const {curWidth,curHeight} = getMaxSize()
             const bookContainer = {}
-            bookContainer.maxWidth = bookContainer.width = Math.floor(curWidth*0.9)
-            bookContainer.maxHeight = bookContainer.height = Math.floor(curHeight*0.85)
+            bookContainer.maxWidth = bookContainer.width = curWidth
+            bookContainer.maxHeight = bookContainer.height = curHeight
             state.bookContainer = bookContainer
             this.commit('pcBook.store/setIsShowOncePage',bookContainer.maxWidth < SHOW_ONCE_PAGE_WIDTH)
-            computerImageShowSize(JSON.parse(JSON.stringify(state)),this.commit.bind(this,'pcBook.store/setBook'))
+            computerShowSize(JSON.parse(JSON.stringify(state)),this.commit.bind(this,'pcBook.store/setBook'))
         },
         setBookContainerW(state,value){
             state.bookContainer.width = value

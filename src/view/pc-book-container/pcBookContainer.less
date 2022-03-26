@@ -1,7 +1,8 @@
 .container{
   position: relative;
   display: flex;
-  align-items: center;
+  align-items: end;
+  justify-content: center;
 }
 .container .shadow{
   position: absolute;
@@ -100,9 +101,12 @@
     .forward {
       position: absolute;
       width: auto;
-      button {
+      img {
         display: block;
         margin-bottom: 20px;
+        cursor: pointer;
+        width: 32px;
+        height: 32px;
       }
     }
     .back {
@@ -133,6 +137,16 @@
       transform-origin: 0% 50% 0px;
     }
    
+  }
+  .container{
+      .page-box{
+        background-color: #B9A58D;
+        font-size: 25px;
+        z-index: 9;
+        color: #fff;
+        font-family:PingFang-SC-Regular;
+        padding: 6px 12px;
+      }
   }
   .button-test{
     position: absolute;

@@ -46,6 +46,12 @@ import {generate} from 'shortid'
         }
     ]
   }
+  const mockJpgData = 
+    {
+      pageCount:26,
+      data:[]
+    }
+  
   mockData.data= []
   for(let i=1;i<=26;i++){
     let obj = {
@@ -55,6 +61,13 @@ import {generate} from 'shortid'
     }
     mockData.data.push(obj)
   }
-  
-  export {mockData}
+  for(let i=1;i<=26;i++){
+    let obj = {
+      key:generate(),
+      svgName:'test-'+i+'.jpg'
+      // svgName:'test_'+i+'_thumb.jpg'
+    }
+    mockJpgData.data.push(obj)
+  }
+  export {mockData,mockJpgData}
   
